@@ -5,7 +5,7 @@
       "id": "dojo-guests-67",
       "file": "dojo-guests-image67-original.jpeg",
       "origin": "local-club-photo",
-      "selected": true,
+      "selected": false,
       "author": null,
       "license": "User-provided club photograph for this design task",
       "licenseURL": null,
@@ -18,7 +18,8 @@
         1512
       ],
       "bytes": 601779,
-      "sha256": "eb5ab1d0912130ee7d20624a524fd9e458b2064fb3634bc76488e48739aab7c1"
+      "sha256": "eb5ab1d0912130ee7d20624a524fd9e458b2064fb3634bc76488e48739aab7c1",
+      "status": "Superseded by live-player.jpeg in the current brandbook"
     },
     {
       "id": "stock-rdne-7915383",
@@ -40,6 +41,16 @@
       ],
       "bytes": 1303334,
       "sha256": "1cd0ec2319d0a24bab40925575de2fe7a73eef7175214291852d7d229c1be7fe"
+    },
+    {
+      "id": "dojo-guests-68",
+      "file": "../selected/live-player.jpeg",
+      "origin": "local-club-photo",
+      "selected": true,
+      "documentaryClubImage": true,
+      "description": "Guests during play, foreground player with hand on mouse",
+      "treatment": "Unmodified original; native crop and display toning",
+      "sha256": "9bafb255cc12cb5d41fa726c76c927f32754247cc898e701b003c2292d3ac0ca"
     }
   ],
   "authenticity": "Real photographs only; no generated people, face replacements, invented club context or implied endorsement",

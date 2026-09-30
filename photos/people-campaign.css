@@ -31,3 +31,14 @@
 .people-campaign-page .together-domain{position:absolute;left:0;bottom:0;font-size:27px}
 @media print{.people-campaign-page{background:white}.people-campaign{display:block;padding:0}.people-campaign-page .people-board{margin:0;break-after:page}}
 
+
+/* Keep the face and mouse hand together in the portrait crop */
+.people-campaign-page .club-photo{width:1900px;height:1800px;max-width:none;left:-500px;object-position:100% 75%;filter:saturate(.7) brightness(1.1)}
+.people-campaign-page .club-shade{background:linear-gradient(180deg,#091a2ae6 0,#091a2a77 30%,transparent 58%,transparent 78%,#091a2ae6 100%)}
+.people-campaign-page .club-title{top:270px;font-size:166px}
+.people-campaign-page .club-marker{top:646px}
+
+.people-campaign-page .club-photo-window{position:absolute;left:0;top:720px;width:1400px;height:1080px;overflow:hidden}
+.people-campaign-page .club-photo{width:2480px;height:1860px;left:-1080px;top:-690px;object-fit:fill;filter:saturate(.7) brightness(1.08)}
+.people-campaign-page .club-shade{background:linear-gradient(180deg,#091a2a 0,#091a2a 33%,#091a2a00 52%,transparent 82%,#091a2add 100%)}
+.people-campaign-page .club-title{top:285px}

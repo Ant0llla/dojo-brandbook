@@ -1,46 +1,53 @@
 {
   "source": "Photographs provided by DOJO for its brand materials",
   "captureDate": null,
-  "method": "built-in image_gen photo retouch",
+  "method": "Visually selected original photographs, native layout crop and display color treatment; source image files unchanged",
+  "revision": "2026-09-30-photo-selection",
   "assets": [
     {
-      "photoId": "image9",
-      "role": "Readable computers on left for horizontal poster slice",
-      "original": "originals/image9.jpeg",
-      "retouched": "poster-pcs-left-retouched.png",
-      "originalSHA256": "fd3ed69c8fe7db0da3bc01abfbdba60432b947eac453335af04be217072348c8",
-      "retouchedSHA256": "43037a5a9dd4254365b2352bbc1228a5f5d058bbf428f716c98428e3bb6f7f28",
-      "retouchedSize": [
-        1448,
-        1086
-      ],
-      "visualReview": "Two original suspended PCs, two monitors and chairs retained. Chains retained. Original single central hanging headset retained; invented second headset and second white shelf bar in first pass were removed. Neutral wall and clearer equipment, soft red/aqua accents. Fine component and wallpaper details are generatively reconstructed, not pixel-identical."
+      "file": "selected/club-depth.jpg",
+      "originalFilename": "pionerskaya_hall.jpg",
+      "role": "Spatial hero with long perspective",
+      "sha256": "38736255a694ce4d5dfb6105e62c8368cfe074e17d2d3be41ee5db99b7782326",
+      "sourcePixelsUnmodified": true,
+      "generated": false
     },
     {
-      "photoId": "image22",
-      "role": "Full club room hero with central aisle",
-      "original": "originals/image22.jpeg",
-      "retouched": "club-hero-retouched.png",
-      "originalSHA256": "c6574541a7e36263a031c4aef1cfc7341bd832942f05a4eb71882c8bb2c9104f",
-      "retouchedSHA256": "12bc138375b8e1b2606462f71ba7b15635b8f21c9191fffa2783e650a898472a",
-      "retouchedSize": [
-        1448,
-        1086
-      ],
-      "visualReview": "Both station rows, chairs, wall-mounted PC cases, central aisle, ceiling and tiled floor retained. Cosmetic chipped paint repair and dirt cleanup, lifted shadows, moderated red/aqua light. No room expansion or new equipment intended. Small screen/UI details are reconstructed."
+      "file": "selected/duo-neon.jpeg",
+      "originalFilename": "image37.jpeg",
+      "role": "Two gaming stations and local light",
+      "sha256": "0025266352dec95e87b81d039b1267c5ddd9d23951ca6e0f9cb1926e11c0f3cc",
+      "sourcePixelsUnmodified": true,
+      "generated": false
     },
     {
-      "photoId": "image83",
-      "role": "Real entrance and recognisable DOJO sign",
-      "original": "originals/image83.jpeg",
-      "retouched": "storefront-sign-retouched.png",
-      "originalSHA256": "086ff02bf1fa52cd1cf01eee3af4a9b869b71d516e81e0f9caf48beb6bedff82",
-      "retouchedSHA256": "1fbe3f414977e9d116732b6e3d2ece267129ac14185376fe0ef1c2269cebd334",
-      "retouchedSize": [
-        1448,
-        1086
-      ],
-      "visualReview": "Actual angled DOJO sign, roof, brick, dark entrance and map-service stickers retained. Readable wording preserved. Dust and sign-face grime reduced, exposure balanced. Small logo/lettering contours remain a generative retouch rather than vector-accurate master art."
+      "file": "selected/club-graffiti.jpeg",
+      "originalFilename": "image54.jpeg",
+      "role": "Original mural and refreshments area",
+      "sha256": "73706dfea9e1282dd2edc243ed20058cbbf33afc9d492bfa7ff3aa52962644be",
+      "sourcePixelsUnmodified": true,
+      "generated": false
+    },
+    {
+      "file": "selected/club-rhythm.jpeg",
+      "originalFilename": "image66.jpeg",
+      "role": "Gaming stations and a real player",
+      "sha256": "68e255777e33de3081f1b7899bed7e4bc997eb8a9c9c1a8b6004f93b45fe058a",
+      "sourcePixelsUnmodified": true,
+      "generated": false
+    },
+    {
+      "file": "selected/live-player.jpeg",
+      "originalFilename": "image68.jpeg",
+      "role": "Portrait composition with a real player and mouse hand",
+      "sha256": "9bafb255cc12cb5d41fa726c76c927f32754247cc898e701b003c2292d3ac0ca",
+      "sourcePixelsUnmodified": true,
+      "generated": false
     }
+  ],
+  "notes": [
+    "All photos visually reviewed at full size and inside the final compositions",
+    "club-depth.jpg is from the DOJO media archive; capture date and address are not independently verified; used only in address-neutral brand examples",
+    "Prior generative retouches are superseded and not used in current examples"
   ]
 }

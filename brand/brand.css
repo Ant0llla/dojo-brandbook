@@ -63,3 +63,11 @@
 #brand-06-type .type-feature{margin-top:60px}
 #brand-06-type .type-body{margin-top:50px;padding-top:36px;padding-bottom:36px}
 #brand-06-type .type-scale{margin-top:20px}
+
+/* Selected club photographs: composition-specific framing */
+#creative-wide .wide-photo{object-position:center 54%;filter:brightness(1.2) saturate(.8)}
+#creative-wide .wide-shade{background:linear-gradient(0deg,#091a2ae6 0,transparent 60%)}
+#smartgamer-news .news-photo{object-position:0 56%;filter:brightness(.94) saturate(.65);width:2112px;max-width:none}
+#character-library .character-photo>img{object-position:45% 63%;filter:saturate(.75) brightness(1.06)}
+
+#character-library .character-photo{position:relative;overflow:hidden}#character-library .character-photo>img{object-position:0 54%}
