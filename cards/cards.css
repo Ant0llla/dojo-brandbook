@@ -5,3 +5,6 @@
 #card-genshin-impact .game-art{width:465px;right:16px}.stock-art{clip-path:polygon(12% 0,100% 0,94% 93%,0 100%,5% 36%)}.stock-art img{top:-325px}
 .template-board{position:relative;width:600px;height:900px;overflow:hidden}.template-cards .game-lettering{font-family:inherit}
 @media print{@page{margin:0;size:1400px 1800px}body{background:white}.catalog-board{margin:0;break-after:page}}
+
+/* v02 catalog captions */
+.catalog-item{position:relative;isolation:isolate;height:416px;overflow:hidden}.catalog-item>img{height:378px;max-height:378px;width:260px;object-fit:contain;position:relative;z-index:0}.catalog-item>span{position:absolute;left:0;right:0;bottom:0;z-index:2;display:flex;flex-direction:column;justify-content:center;min-height:38px;padding:6px 2px;background:#091A2A;font:500 17px/1.2 Golos,Arial,sans-serif;color:#E9E5DC;box-shadow:0 -5px 0 #091A2A}.catalog-item>span small{display:block;font-size:11px;line-height:1.3;color:#acb7bf;margin-top:4px}.catalog-rights{position:absolute;left:70px;right:70px;bottom:119px;display:flex;justify-content:space-between;align-items:center;gap:20px;font:17px/1.35 Golos,Arial,sans-serif;color:#acb7bf}.catalog-rights a{color:#65B5AC;font-size:18px}.catalog-board .catalog-grid{gap:18px 27px}

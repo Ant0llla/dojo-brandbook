@@ -11,6 +11,28 @@
     "webSource": "frames/brand-01-character.html"
   },
   {
+    "id": "v02-contents",
+    "title": "Содержание",
+    "source": "overview/overview.html",
+    "width": 1400,
+    "height": 1800,
+    "group": "Бренд",
+    "export": true,
+    "png": "exports/boards/v02-contents.png",
+    "webSource": "frames/v02-contents.html"
+  },
+  {
+    "id": "v02-positioning",
+    "title": "Позиционирование",
+    "source": "brand/v02-additions.html",
+    "width": 1400,
+    "height": 1800,
+    "group": "Бренд",
+    "export": true,
+    "png": "exports/boards/v02-positioning.png",
+    "webSource": "frames/v02-positioning.html"
+  },
+  {
     "id": "direction",
     "title": "Плакат DOJO",
     "group": "Бренд",
@@ -164,6 +186,17 @@
     "webSource": "frames/brand-14-objects.html"
   },
   {
+    "id": "v02-merch-accessories",
+    "title": "Мерч и предметы",
+    "source": "brand/v02-additions.html",
+    "width": 1400,
+    "height": 1800,
+    "group": "Креатив и носители",
+    "export": true,
+    "png": "exports/boards/v02-merch-accessories.png",
+    "webSource": "frames/v02-merch-accessories.html"
+  },
+  {
     "id": "smartgamer-logo",
     "title": "SmartGamer · знак",
     "width": 1920,
@@ -285,6 +318,39 @@
     "source": "photos/people-campaign.html",
     "png": "exports/boards/people-together.png",
     "webSource": "frames/people-together.html"
+  },
+  {
+    "id": "v02-social",
+    "title": "Соцсети",
+    "source": "brand/v02-additions.html",
+    "width": 1400,
+    "height": 1800,
+    "group": "Креатив и носители",
+    "export": true,
+    "png": "exports/boards/v02-social.png",
+    "webSource": "frames/v02-social.html"
+  },
+  {
+    "id": "v02-wayfinding",
+    "title": "Наружка и интерьер",
+    "source": "brand/v02-additions.html",
+    "width": 1400,
+    "height": 1800,
+    "group": "Креатив и носители",
+    "export": true,
+    "png": "exports/boards/v02-wayfinding.png",
+    "webSource": "frames/v02-wayfinding.html"
+  },
+  {
+    "id": "v02-motion",
+    "title": "Моушн",
+    "source": "brand/v02-additions.html",
+    "width": 1400,
+    "height": 1800,
+    "group": "Креатив и носители",
+    "export": true,
+    "png": "exports/boards/v02-motion.png",
+    "webSource": "frames/v02-motion.html"
   },
   {
     "id": "actions",
@@ -587,6 +653,17 @@
     "webSource": "frames/signage-stale.html"
   },
   {
+    "id": "v02-tv-states",
+    "title": "ТВ / три состояния",
+    "source": "overview/overview.html",
+    "width": 1920,
+    "height": 1080,
+    "group": "Продукт",
+    "export": true,
+    "png": "exports/boards/v02-tv-states.png",
+    "webSource": "frames/v02-tv-states.html"
+  },
+  {
     "id": "catalog-games-1",
     "title": "Игры / 1",
     "width": 1400,
@@ -800,5 +877,60 @@
     "group": "Карточки",
     "png": "exports/boards/template-card-steam.png",
     "webSource": "frames/template-card-steam.html"
+  },
+  {
+    "id": "v02-rights",
+    "title": "Права и ограничения",
+    "source": "brand/v02-additions.html",
+    "width": 1400,
+    "height": 1800,
+    "group": "Права и исходники",
+    "export": true,
+    "png": "exports/boards/v02-rights.png",
+    "webSource": "frames/v02-rights.html"
+  },
+  {
+    "id": "waiting-oni-breath",
+    "title": "Ожидание / Дыхание маски",
+    "width": 1920,
+    "height": 1080,
+    "export": true,
+    "source": "motion-waiting/index.html",
+    "group": "Моушн",
+    "png": "exports/boards/waiting-oni-breath.png",
+    "webSource": "frames/waiting-oni-breath.html"
+  },
+  {
+    "id": "waiting-red-relay",
+    "title": "Ожидание / 12 колонн",
+    "width": 1920,
+    "height": 1080,
+    "export": true,
+    "source": "motion-waiting/index.html",
+    "group": "Моушн",
+    "png": "exports/boards/waiting-red-relay.png",
+    "webSource": "frames/waiting-red-relay.html"
+  },
+  {
+    "id": "waiting-wordmark-cut",
+    "title": "Ожидание / Срез слова",
+    "width": 1920,
+    "height": 1080,
+    "export": true,
+    "source": "motion-waiting/index.html",
+    "group": "Моушн",
+    "png": "exports/boards/waiting-wordmark-cut.png",
+    "webSource": "frames/waiting-wordmark-cut.html"
+  },
+  {
+    "id": "waiting-club-aperture",
+    "title": "Ожидание / Окна клуба",
+    "width": 1920,
+    "height": 1080,
+    "export": true,
+    "source": "motion-waiting/index.html",
+    "group": "Моушн",
+    "png": "exports/boards/waiting-club-aperture.png",
+    "webSource": "frames/waiting-club-aperture.html"
   }
 ]

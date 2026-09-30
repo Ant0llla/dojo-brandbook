@@ -1,0 +1,57 @@
+[
+  {
+    "id": "social-avatar",
+    "title": "Аватар",
+    "width": 1024,
+    "height": 1024,
+    "source": "brand/v02-social-templates.html",
+    "includeInPdf": false,
+    "export": "brand/social-exports/social-avatar.png",
+    "guidesDefault": false,
+    "platformRequirement": false
+  },
+  {
+    "id": "social-vk-cover",
+    "title": "Обложка VK",
+    "width": 1600,
+    "height": 640,
+    "source": "brand/v02-social-templates.html",
+    "includeInPdf": false,
+    "export": "brand/social-exports/social-vk-cover.png",
+    "guidesDefault": false,
+    "platformRequirement": false
+  },
+  {
+    "id": "social-tg-banner",
+    "title": "Баннер Telegram",
+    "width": 1600,
+    "height": 900,
+    "source": "brand/v02-social-templates.html",
+    "includeInPdf": false,
+    "export": "brand/social-exports/social-tg-banner.png",
+    "guidesDefault": false,
+    "platformRequirement": false
+  },
+  {
+    "id": "social-post-4x5",
+    "title": "Пост 4:5",
+    "width": 1080,
+    "height": 1350,
+    "source": "brand/v02-social-templates.html",
+    "includeInPdf": false,
+    "export": "brand/social-exports/social-post-4x5.png",
+    "guidesDefault": false,
+    "platformRequirement": false
+  },
+  {
+    "id": "social-story-9x16",
+    "title": "История 9:16",
+    "width": 1080,
+    "height": 1920,
+    "source": "brand/v02-social-templates.html",
+    "includeInPdf": false,
+    "export": "brand/social-exports/social-story-9x16.png",
+    "guidesDefault": false,
+    "platformRequirement": false
+  }
+]

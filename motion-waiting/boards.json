@@ -1,0 +1,30 @@
+[
+  {
+    "id": "waiting-oni-breath",
+    "title": "Ожидание / Дыхание маски",
+    "width": 1920,
+    "height": 1080,
+    "export": true
+  },
+  {
+    "id": "waiting-red-relay",
+    "title": "Ожидание / 12 колонн",
+    "width": 1920,
+    "height": 1080,
+    "export": true
+  },
+  {
+    "id": "waiting-wordmark-cut",
+    "title": "Ожидание / Срез слова",
+    "width": 1920,
+    "height": 1080,
+    "export": true
+  },
+  {
+    "id": "waiting-club-aperture",
+    "title": "Ожидание / Окна клуба",
+    "width": 1920,
+    "height": 1080,
+    "export": true
+  }
+]

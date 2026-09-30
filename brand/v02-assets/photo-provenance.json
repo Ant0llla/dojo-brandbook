@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "file": "v02-assets/entry-context.jpeg",
+      "source": "Original club photograph supplied by DOJO",
+      "sha256": "35549257f33bfe571b6bf8fa6ad4881640994d076a97f42053853180ea639444",
+      "method": "Byte-for-byte copy of original photo; branding overlays are separate HTML sketch layers",
+      "captureDate": null
+    },
+    {
+      "file": "v02-assets/hallway-context.jpeg",
+      "source": "Original club photograph supplied by DOJO",
+      "sha256": "b07f126640082150cf8865419eff597aca1bb845e21a7d085070b520fdef13b7",
+      "method": "Byte-for-byte copy of original photo; branding overlays are separate HTML sketch layers",
+      "captureDate": null
+    },
+    {
+      "file": "v02-assets/counter-context.jpeg",
+      "source": "Original club photograph supplied by DOJO",
+      "sha256": "be7f772e4e16efcde83a58339a6720f4e9c609ec0a8fa343a4f1ed40c2af0269",
+      "method": "Byte-for-byte copy of original photo; branding overlays are separate HTML sketch layers",
+      "captureDate": null
+    }
+  ],
+  "use": "Placement sketches, not documented completed installations",
+  "addressNotInferred": true
+}

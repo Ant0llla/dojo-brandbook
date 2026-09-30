@@ -1,0 +1,8 @@
+[
+  {"id":"v02-positioning","title":"Позиционирование","width":1400,"height":1800,"export":true,"group":"Бренд","source":"brand/v02-additions.html"},
+  {"id":"v02-social","title":"Соцсети","width":1400,"height":1800,"export":true,"group":"Креатив и носители","source":"brand/v02-additions.html"},
+  {"id":"v02-wayfinding","title":"Наружка и интерьер","width":1400,"height":1800,"export":true,"group":"Креатив и носители","source":"brand/v02-additions.html"},
+  {"id":"v02-motion","title":"Моушн","width":1400,"height":1800,"export":true,"group":"Креатив и носители","source":"brand/v02-additions.html"},
+  {"id":"v02-merch-accessories","title":"Мерч и предметы","width":1400,"height":1800,"export":true,"group":"Креатив и носители","source":"brand/v02-additions.html"},
+  {"id":"v02-rights","title":"Права и контакты","width":1400,"height":1800,"export":true,"group":"Права и контакты","source":"brand/v02-additions.html"}
+]

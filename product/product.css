@@ -30,3 +30,6 @@
 .p-shop .p-mast{margin-bottom:30px}.p-shop .p-heading h1{font-size:78px}.p-shop .p-heading{margin-bottom:30px}.p-goods-item{font-size:18px;line-height:1.35;padding:9px 0}.p-goods-item span{max-width:320px;flex:1}.p-goods-item b{font-size:23px}.p-goods-group{margin-bottom:23px}.p-goods-group h2{font-size:25px;margin-bottom:14px}
 @media print{@page{size:1400px 1800px;margin:0}body{background:var(--p-bg)}.p-document-nav{display:none}.p-board{margin:0;break-after:page;outline:0;print-color-adjust:exact;-webkit-print-color-adjust:exact}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+
+/* v02 references */
+.v02-product-reference{position:absolute;left:70px;right:70px;bottom:103px;display:flex;align-items:center;justify-content:space-between;gap:20px;font:20px/1.35 Golos,Arial,sans-serif;color:#65B5AC}.v02-product-reference span{color:#adb7bd;font-size:17px}.v02-product-reference a{color:inherit}.v02-shop-link{bottom:103px}.v02-api-badge{position:absolute;right:70px;bottom:78px;padding:13px 20px;background:#D7B169;color:#091A2A;font:600 26px Tektur,Arial,sans-serif}

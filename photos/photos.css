@@ -10,3 +10,7 @@
 .selection-details figure{position:relative}.selection-details img{height:430px}.selection-details figure:first-child img{object-position:0 67%}.selection-details figure:last-child img{object-position:0 64%}
 
 .selection-crop{position:relative;width:618px;height:430px;overflow:hidden}.selection-crop img{position:absolute;width:850px;height:638px;max-width:none;left:0;top:-115px;object-fit:fill}.selection-crop .rhythm-detail{top:-115px}
+
+/* v02 photo rules stay on the overview selection board */
+.photo-selection .selection-main>img{height:500px}.photo-selection .selection-details{margin-top:28px}.photo-selection .selection-crop{height:330px}.photo-selection figcaption{padding-top:17px}.photo-selection figcaption b{font-size:25px}.photo-selection figcaption span{font-size:18px}
+.photo-rules{display:grid;grid-template-columns:repeat(3,1fr);gap:28px;margin-top:30px;border-top:1px solid #354752;padding-top:22px}.photo-rules span{font:500 12px Golos;color:#65b5ac;letter-spacing:.8px}.photo-rules h3{font:500 22px/1.2 Tektur;margin:13px 0 12px}.photo-rules p{font:400 18px/1.45 Golos;margin:0;color:#b3bec5}

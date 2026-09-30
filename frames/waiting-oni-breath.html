@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="ru">
+<head><base href="../motion-waiting/">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>DOJO — Анимированные экраны ожидания</title>
+  <meta name="description" content="Четыре варианта анимированного экрана ожидания DOJO">
+  <link rel="stylesheet" href="../brand/tokens.css">
+  <link rel="stylesheet" href="style.css">
+<style>#waiting-red-relay,#waiting-wordmark-cut,#waiting-club-aperture{display:none!important}</style></head>
+<body data-view="gallery" data-state="preparing" data-paused="false">
+  <header class="showcase-header">
+    <div class="showcase-brand">
+      <img alt="DOJO">
+      <div>
+        <span>MOTION STUDY / 01</span>
+        <h1>Экран ожидания</h1>
+        <p>Четыре направления на одной честной строке состояния</p>
+      </div>
+    </div>
+    <div class="showcase-controls" aria-label="Управление демонстрацией">
+      <label>
+        <span>Состояние</span>
+        <select id="state-control">
+          <option value="preparing">Подготовка</option>
+          <option value="offline">Нет связи</option>
+          <option value="ready">Готово</option>
+        </select>
+      </label>
+      <button id="motion-toggle" type="button" aria-pressed="false">Остановить движение</button>
+      <a href="../index.html#pc-waiting-background">Открыть брендбук ↗</a>
+    </div>
+  </header>
+
+  <main class="variant-grid" id="variant-grid">
+    <article class="variant-card" data-variant-card="1">
+      <header class="card-meta">
+        <div><span>01 / ONI BREATH</span><h2>Дыхание маски</h2></div>
+        <p>Тихое фирменное движение, ближе всего к существующему фону ожидания</p>
+      </header>
+      <div class="preview-shell">
+        <section class="motion-board board-oni" id="waiting-oni-breath" data-width="1920" data-height="1080" aria-label="Вариант 1 — Дыхание маски">
+          <div class="screen-kicker">DOJO / КОМПЬЮТЕРНЫЙ КЛУБ</div>
+          <img class="screen-wordmark" src="../brand/assets/logo-wordmark-paper.svg" alt="DOJO">
+          <div class="status-copy" role="status" aria-live="off" aria-atomic="true">
+            <span class="status-eyebrow" data-status-eyebrow>ПОДГОТОВКА</span>
+            <h2 data-status-title>Подключаемся к клубу</h2>
+            <p data-status-text>Игры и программы появятся после подготовки</p>
+            <div class="status-signal" aria-hidden="true"><i></i><i></i><i></i></div>
+          </div>
+          <div class="oni-art" aria-hidden="true">
+            <div class="oni-field"></div>
+            <img class="oni-mask" src="../brand/assets/logo-mask-red.svg" alt="">
+            <div class="oni-shine"></div>
+          </div>
+          <div class="screen-footer"><span>DOJO / ИГРА НАЧИНАЕТСЯ ЗДЕСЬ</span><span>СОСТОЯНИЕ ОБНОВЛЯЕТ СИСТЕМА</span></div>
+        </section>
+      </div>
+      <footer class="card-actions"><span>12 секунд · мягкий цикл</span><a href="?variant=1">Развернуть ↗</a></footer>
+    </article>
+
+    <article class="variant-card" data-variant-card="2">
+      <header class="card-meta">
+        <div><span>02 / RED RELAY</span><h2>12 колонн</h2></div>
+        <p>Системный сигнал проходит по сетке и возвращается, не изображая прогресс</p>
+      </header>
+      <div class="preview-shell">
+        <section class="motion-board board-relay" id="waiting-red-relay" data-width="1920" data-height="1080" aria-label="Вариант 2 — 12 колонн">
+          <div class="relay-grid" aria-hidden="true">
+            <i><b>01</b></i><i><b>02</b></i><i><b>03</b></i><i><b>04</b></i><i><b>05</b></i><i><b>06</b></i>
+            <i><b>07</b></i><i><b>08</b></i><i><b>09</b></i><i><b>10</b></i><i><b>11</b></i><i><b>12</b></i>
+          </div>
+          <div class="relay-line" aria-hidden="true"><span></span></div>
+          <img class="relay-mask" alt="" aria-hidden="true">
+          <img class="screen-wordmark" alt="DOJO">
+          <div class="screen-kicker">DOJO / КОМПЬЮТЕРНЫЙ КЛУБ</div>
+          <div class="status-copy" role="status" aria-live="off" aria-atomic="true">
+            <span class="status-eyebrow" data-status-eyebrow>ПОДГОТОВКА</span>
+            <h2 data-status-title>Подключаемся к клубу</h2>
+            <p data-status-text>Игры и программы появятся после подготовки</p>
+            <div class="status-signal" aria-hidden="true"><i></i><i></i><i></i></div>
+          </div>
+          <div class="screen-footer"><span>DOJO / ИГРА НАЧИНАЕТСЯ ЗДЕСЬ</span><span>СОСТОЯНИЕ ОБНОВЛЯЕТ СИСТЕМА</span></div>
+        </section>
+      </div>
+      <footer class="card-actions"><span>8 секунд · возвратный сигнал</span><a href="?variant=2">Развернуть ↗</a></footer>
+    </article>
+
+    <article class="variant-card" data-variant-card="3">
+      <header class="card-meta">
+        <div><span>03 / WORDMARK CUT</span><h2>Срез слова</h2></div>
+        <p>Редакционный вариант с крупным словесным знаком и редким красным жестом</p>
+      </header>
+      <div class="preview-shell">
+        <section class="motion-board board-wordmark" id="waiting-wordmark-cut" data-width="1920" data-height="1080" aria-label="Вариант 3 — Срез слова">
+          <div class="screen-kicker">DOJO / КОМПЬЮТЕРНЫЙ КЛУБ</div>
+          <div class="wordmark-stage" aria-hidden="true">
+            <img class="wordmark-base" alt="">
+            <img class="wordmark-red" alt="">
+          </div>
+          <aside class="type-rail" aria-hidden="true"><span>03</span><b>СВОЯ<br>ИГРА</b><i></i></aside>
+          <div class="status-copy wordmark-status" role="status" aria-live="off" aria-atomic="true">
+            <span class="status-eyebrow" data-status-eyebrow>ПОДГОТОВКА</span>
+            <h2 data-status-title>Подключаемся к клубу</h2>
+            <p data-status-text>Игры и программы появятся после подготовки</p>
+            <div class="status-signal" aria-hidden="true"><i></i><i></i><i></i></div>
+          </div>
+          <div class="screen-footer"><span>DOJO / ИГРА НАЧИНАЕТСЯ ЗДЕСЬ</span><span>СОСТОЯНИЕ ОБНОВЛЯЕТ СИСТЕМА</span></div>
+        </section>
+      </div>
+      <footer class="card-actions"><span>8 секунд · 650 мс действия</span><a href="?variant=3">Развернуть ↗</a></footer>
+    </article>
+
+    <article class="variant-card" data-variant-card="4">
+      <header class="card-meta">
+        <div><span>04 / CLUB APERTURE</span><h2>Окна клуба</h2></div>
+        <p>Самый эмоциональный вариант — живой интерьер в трех спокойных кадрах</p>
+      </header>
+      <div class="preview-shell">
+        <section class="motion-board board-aperture" id="waiting-club-aperture" data-width="1920" data-height="1080" aria-label="Вариант 4 — Окна клуба">
+          <img class="screen-wordmark" alt="DOJO">
+          <div class="screen-kicker">DOJO / КОМПЬЮТЕРНЫЙ КЛУБ</div>
+          <div class="status-copy aperture-status" role="status" aria-live="off" aria-atomic="true">
+            <span class="status-eyebrow" data-status-eyebrow>ПОДГОТОВКА</span>
+            <h2 data-status-title>Подключаемся к клубу</h2>
+            <p data-status-text>Игры и программы появятся после подготовки</p>
+            <div class="status-signal" aria-hidden="true"><i></i><i></i><i></i></div>
+          </div>
+          <div class="aperture-stack" aria-hidden="true">
+            <figure class="aperture aperture-one"><img alt=""><figcaption>01 / СВЕТ</figcaption></figure>
+            <figure class="aperture aperture-two"><img alt=""><figcaption>02 / МЕСТО</figcaption></figure>
+            <figure class="aperture aperture-three"><img alt=""><figcaption>03 / ИГРА</figcaption></figure>
+          </div>
+          <div class="aperture-fallback" aria-hidden="true"><img alt=""></div>
+          <div class="screen-footer"><span>DOJO / ИГРА НАЧИНАЕТСЯ ЗДЕСЬ</span><span>СОСТОЯНИЕ ОБНОВЛЯЕТ СИСТЕМА</span></div>
+        </section>
+      </div>
+      <footer class="card-actions"><span>14 секунд · микропараллакс</span><a href="?variant=4">Развернуть ↗</a></footer>
+    </article>
+  </main>
+
+  <script src="app.js"></script>
+  <script src="../frame-viewer.js"></script>
+</body>
+</html>

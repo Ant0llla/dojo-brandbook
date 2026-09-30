@@ -71,3 +71,34 @@
 #character-library .character-photo>img{object-position:45% 63%;filter:saturate(.75) brightness(1.06)}
 
 #character-library .character-photo{position:relative;overflow:hidden}#character-library .character-photo>img{object-position:0 54%}
+
+/* v02 editorial additions within existing boards */
+.cover-bottom span{font-size:20px;letter-spacing:.4px}
+.print-minimum-note{margin:20px 76px 0;border-left:4px solid var(--dz-aqua);padding:12px 24px}
+.print-minimum-note strong{font:600 26px Tektur}.print-minimum-note p{font-size:23px;margin-top:9px}.print-minimum-note span{display:block;font-size:16px;color:var(--dz-muted);margin-top:10px}
+#brand-03-logo-rules .wrong-row{margin-top:34px;height:220px}#brand-03-logo-rules .wrong-row>div{height:220px}
+#brand-04-art-logo .art-logo-rules{margin-top:48px}#brand-04-art-logo .art-logo-rules strong{font-weight:600}
+.swatches .role-example{display:flex;gap:14px;align-items:center;border-top:1px solid currentColor;padding-top:20px}
+.role-example svg{width:32px;height:32px;flex:0 0 32px}.role-example small{font:400 11px/1.6 var(--dz-body)}.role-example strong{font-size:17px;font-weight:500}
+#brand-06-type .type-feature{font-size:176px;margin-top:40px}#brand-06-type .type-body{margin-top:32px;padding:26px 0}#brand-06-type .type-body>p{font-size:23px}
+.type-fallback{margin:25px 76px 0;padding-left:22px;border-left:3px solid var(--dz-aqua);font-size:19px}.type-fallback b{font:500 23px Tektur}.type-fallback p{margin-top:8px;line-height:1.45;color:var(--dz-muted)}
+#brand-06-type .type-scale{margin-top:16px}.type-scale b{line-height:1.05}#brand-06-type .type-scale>div{min-height:77px;padding:10px 0}
+.grid-demo.layout-live{height:430px;margin-top:48px;display:block;background:var(--dz-navy);overflow:hidden}
+.grid-demo.layout-live>div{border:0;background:none}.layout-example{position:absolute;inset:0;display:grid;grid-template-columns:repeat(12,1fr);gap:24px}
+.layout-copy{grid-column:1/7;padding:42px 0 28px;color:var(--dz-paper)}.layout-copy>span{position:static;display:block;text-align:left;font-size:12px;letter-spacing:1px}.layout-copy h2{font-size:68px;margin-top:35px}.layout-copy p{font-size:19px;line-height:1.4;margin-top:27px}
+.layout-image{grid-column:7/13;overflow:hidden}.layout-image img{width:100%;height:100%;object-fit:cover;object-position:60% 57%}
+.layout-guides{position:absolute;inset:0;z-index:5;display:grid;grid-template-columns:repeat(12,1fr);gap:24px;pointer-events:none}.layout-guides i{position:relative;border-left:1px solid #ef334080;border-right:1px solid #ef334080;background:#ef334017;font-style:normal}.layout-guides span{top:10px;bottom:auto;font-size:11px;color:var(--dz-paper)}
+.layout-caption{margin:18px 76px 0;font-size:18px;line-height:1.5}#brand-07-layout .grid-bottom{margin-top:38px}#brand-07-layout .geometry{margin-top:44px}
+#brand-08-icons .icon-library{margin-top:58px}#brand-08-icons .icon-library>div{height:180px}#brand-08-icons .icon-spec{margin-top:44px}#brand-08-icons .focus-demo{margin-top:42px;margin-bottom:0}
+.icon-source-note{margin:38px 76px 0;padding-top:20px;border-top:1px solid #536c7b;display:grid;grid-template-columns:250px 1fr;gap:20px}.icon-source-note b{font:500 27px Tektur}.icon-source-note p{font-size:18px;line-height:1.5;color:var(--dz-muted)}
+.voice-layout{margin:58px 76px 0;display:grid;grid-template-columns:1fr 1.13fr;gap:58px}.voice-column-label{font:600 17px Tektur;letter-spacing:1.5px;margin-bottom:24px}
+#brand-09-voice .voice-pair{margin:0 0 24px;padding:24px 0 0;border-top:1px solid #091a255}#brand-09-voice .voice-pair>span{position:static;display:block;font-size:13px;margin-bottom:15px}#brand-09-voice .voice-pair h2{font-size:34px;line-height:1.12}#brand-09-voice .voice-pair p{font-size:21px;margin-top:16px;line-height:1.5}
+.voice-social article{border-top:3px solid var(--dz-red);padding:22px 0 27px;margin-bottom:22px}.voice-social article>span{font-size:13px;letter-spacing:.7px}.voice-social h3{font-size:31px;margin-top:18px}.voice-social p{font-size:23px;line-height:1.48;margin-top:18px}.voice-social small{display:block;font-size:16px;line-height:1.4;color:#536c7b;margin-top:17px}#brand-09-voice .voice-end{margin-top:22px;padding-top:22px;border-top:1px solid #091a255;font-size:16px}
+#smartgamer-logo .digital-caption{top:280px;left:1050px;max-width:720px}#smartgamer-logo .digital-caption h2{font-size:61px}#smartgamer-logo .digital-caption>p{font-size:25px}.digital-rights{margin-top:52px;padding-top:22px;border-top:2px solid var(--dz-aqua)}.digital-rights b{font:500 25px Tektur}.digital-rights p{font-size:21px;line-height:1.5;margin-top:18px;color:var(--dz-muted)}
+.format-label{position:absolute;left:54px;bottom:22px;z-index:20;background:var(--dz-navy);color:var(--dz-paper);font:400 15px/1.4 var(--dz-body);letter-spacing:.3px;padding:10px 16px;border-left:3px solid var(--dz-aqua)}
+#creative-feed .format-label{top:85px;bottom:auto;left:54px}#creative-story .format-label{left:60px;bottom:20px;background:transparent;padding-left:12px}#creative-wide .format-label{left:auto;right:72px;top:58px;bottom:auto}#smartgamer-news .format-label{top:220px;bottom:auto;left:70px}
+.ai-disclosure{margin:26px 76px 0;padding:17px 23px;background:var(--dz-navy);color:var(--dz-paper);display:flex;align-items:center;justify-content:space-between;gap:30px;border-left:5px solid var(--dz-red)}.ai-disclosure b{font:500 25px Tektur}.ai-disclosure p{font-size:20px}
+#character-library .character-lineup{margin-top:30px}#character-library .library-person{height:500px}#character-library .character-other{margin-top:34px;padding-top:26px}
+
+#brand-03-logo-rules .clear-grid{margin-top:40px}#brand-03-logo-rules .minimum{margin-top:40px}
+.grid-demo.layout-live>.layout-example,.grid-demo.layout-live>.layout-guides{position:absolute;inset:0}

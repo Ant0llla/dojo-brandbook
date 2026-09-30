@@ -1,0 +1,500 @@
+{
+  "version": "02",
+  "date": "2026-10-01",
+  "dataSnapshot": "2026-09-29",
+  "publicURL": "https://ant0llla.github.io/dojo-brandbook/",
+  "pages": [
+    {
+      "id": "brand-01-character",
+      "title": "Характер бренда",
+      "width": 1400,
+      "height": 1800,
+      "source": "brand/brand.html",
+      "section": "Бренд",
+      "subsection": "Характер бренда",
+      "page": 1
+    },
+    {
+      "id": "v02-contents",
+      "title": "Содержание",
+      "source": "overview/overview.html",
+      "width": 1400,
+      "height": 1800,
+      "section": "Бренд",
+      "subsection": "Содержание",
+      "page": 2
+    },
+    {
+      "id": "v02-positioning",
+      "title": "Позиционирование",
+      "source": "brand/v02-additions.html",
+      "width": 1400,
+      "height": 1800,
+      "section": "Бренд",
+      "subsection": "Позиционирование",
+      "page": 3
+    },
+    {
+      "id": "brand-02-logo",
+      "title": "Логотипы",
+      "width": 1400,
+      "height": 1800,
+      "source": "brand/brand.html",
+      "section": "Бренд",
+      "subsection": "Логотипы",
+      "page": 4
+    },
+    {
+      "id": "brand-03-logo-rules",
+      "title": "Поле и ограничения",
+      "width": 1400,
+      "height": 1800,
+      "source": "brand/brand.html",
+      "section": "Бренд",
+      "subsection": "Поле и ограничения",
+      "page": 5
+    },
+    {
+      "id": "brand-04-art-logo",
+      "title": "Кистевой арт-логотип",
+      "width": 1400,
+      "height": 1800,
+      "source": "brand/brand.html",
+      "section": "Бренд",
+      "subsection": "Кистевой арт-логотип",
+      "page": 6
+    },
+    {
+      "id": "brand-05-color",
+      "title": "Цвет и контраст",
+      "width": 1400,
+      "height": 1800,
+      "source": "brand/brand.html",
+      "section": "Бренд",
+      "subsection": "Цвет и контраст",
+      "page": 7
+    },
+    {
+      "id": "brand-06-type",
+      "title": "Типографика",
+      "width": 1400,
+      "height": 1800,
+      "source": "brand/brand.html",
+      "section": "Бренд",
+      "subsection": "Типографика",
+      "page": 8
+    },
+    {
+      "id": "brand-07-layout",
+      "title": "Сетка и геометрия",
+      "width": 1400,
+      "height": 1800,
+      "source": "brand/brand.html",
+      "section": "Бренд",
+      "subsection": "Сетка и геометрия",
+      "page": 9
+    },
+    {
+      "id": "brand-08-icons",
+      "title": "Иконки и сигналы",
+      "width": 1400,
+      "height": 1800,
+      "source": "brand/brand.html",
+      "section": "Бренд",
+      "subsection": "Иконки и сигналы",
+      "page": 10
+    },
+    {
+      "id": "brand-09-voice",
+      "title": "Голос DOJO",
+      "width": 1400,
+      "height": 1800,
+      "source": "brand/brand.html",
+      "section": "Бренд",
+      "subsection": "Голос DOJO",
+      "page": 11
+    },
+    {
+      "id": "creative-feed",
+      "title": "Креатив для ленты",
+      "width": 1080,
+      "height": 1350,
+      "source": "brand/brand.html",
+      "section": "Креатив и носители",
+      "subsection": "Креатив для ленты",
+      "page": 12
+    },
+    {
+      "id": "creative-wide",
+      "title": "Широкий креатив",
+      "width": 1920,
+      "height": 1080,
+      "source": "brand/brand.html",
+      "section": "Креатив и носители",
+      "subsection": "Широкий креатив",
+      "page": 13
+    },
+    {
+      "id": "brand-13-merch",
+      "title": "Футболка и худи",
+      "width": 1400,
+      "height": 1800,
+      "source": "brand/brand.html",
+      "section": "Креатив и носители",
+      "subsection": "Футболка и худи",
+      "page": 14
+    },
+    {
+      "id": "v02-merch-accessories",
+      "title": "Мерч и предметы",
+      "source": "brand/v02-additions.html",
+      "width": 1400,
+      "height": 1800,
+      "section": "Креатив и носители",
+      "subsection": "Мерч и предметы",
+      "page": 15
+    },
+    {
+      "id": "smartgamer-logo",
+      "title": "SmartGamer · знак",
+      "width": 1920,
+      "height": 1080,
+      "source": "brand/brand.html",
+      "section": "Креатив и носители",
+      "subsection": "SmartGamer · знак",
+      "page": 16
+    },
+    {
+      "id": "smartgamer-news",
+      "title": "SmartGamer · новость",
+      "width": 1920,
+      "height": 1080,
+      "source": "brand/brand.html",
+      "section": "Креатив и носители",
+      "subsection": "SmartGamer · новость",
+      "page": 17
+    },
+    {
+      "id": "pc-waiting-background",
+      "title": "Ожидание ПК · фон",
+      "width": 1920,
+      "height": 1080,
+      "source": "brand/brand.html",
+      "section": "Креатив и носители",
+      "subsection": "Ожидание ПК · фон",
+      "page": 18
+    },
+    {
+      "id": "character-library",
+      "title": "Персонажи и подача",
+      "width": 1400,
+      "height": 1800,
+      "source": "brand/brand.html",
+      "section": "Креатив и носители",
+      "subsection": "Персонажи и подача",
+      "page": 19
+    },
+    {
+      "id": "photo-treatment",
+      "title": "Фотография · отбор",
+      "width": 1400,
+      "height": 1800,
+      "source": "photos/photos.html",
+      "section": "Креатив и носители",
+      "subsection": "Фотография · отбор",
+      "page": 20
+    },
+    {
+      "id": "people-club",
+      "title": "Игра идет",
+      "width": 1400,
+      "height": 1800,
+      "file": "photos/people-campaign.html",
+      "sourceKind": "local-club-photo",
+      "description": "Цветной репортаж с реальными гостями DOJO, без генерации людей",
+      "source": "photos/people-campaign.html",
+      "section": "Креатив и носители",
+      "subsection": "Игра идет",
+      "page": 21
+    },
+    {
+      "id": "v02-social",
+      "title": "Соцсети",
+      "source": "brand/v02-additions.html",
+      "width": 1400,
+      "height": 1800,
+      "section": "Креатив и носители",
+      "subsection": "Соцсети",
+      "page": 22
+    },
+    {
+      "id": "v02-wayfinding",
+      "title": "Наружка и интерьер",
+      "source": "brand/v02-additions.html",
+      "width": 1400,
+      "height": 1800,
+      "section": "Креатив и носители",
+      "subsection": "Наружка и интерьер",
+      "page": 23
+    },
+    {
+      "id": "v02-motion",
+      "title": "Моушн",
+      "source": "brand/v02-additions.html",
+      "width": 1400,
+      "height": 1800,
+      "section": "Креатив и носители",
+      "subsection": "Моушн",
+      "page": 24
+    },
+    {
+      "id": "actions",
+      "title": "Действия",
+      "source": "components/components.html",
+      "width": 1400,
+      "height": 1800,
+      "section": "Компоненты",
+      "subsection": "Действия",
+      "page": 25
+    },
+    {
+      "id": "forms",
+      "title": "Ввод и выбор",
+      "source": "components/components.html",
+      "width": 1400,
+      "height": 1800,
+      "section": "Компоненты",
+      "subsection": "Ввод и выбор",
+      "page": 26
+    },
+    {
+      "id": "feedback",
+      "title": "Обратная связь",
+      "source": "components/components.html",
+      "width": 1400,
+      "height": 1800,
+      "section": "Компоненты",
+      "subsection": "Обратная связь",
+      "page": 27
+    },
+    {
+      "id": "navigation",
+      "title": "Навигация",
+      "source": "components/components.html",
+      "width": 1400,
+      "height": 1800,
+      "section": "Компоненты",
+      "subsection": "Навигация",
+      "page": 28
+    },
+    {
+      "id": "product-atoms",
+      "title": "Места и цены",
+      "source": "components/components.html",
+      "width": 1400,
+      "height": 1800,
+      "section": "Компоненты",
+      "subsection": "Места и цены",
+      "page": 29
+    },
+    {
+      "id": "icons",
+      "title": "Иконки и поведение",
+      "source": "components/components.html",
+      "width": 1400,
+      "height": 1800,
+      "section": "Компоненты",
+      "subsection": "Иконки и поведение",
+      "page": 30
+    },
+    {
+      "id": "price-pionerskaya-weekday",
+      "title": "Прайс / DOJO Пионерская / Будни",
+      "width": 1400,
+      "height": 1800,
+      "source": "product/product.html",
+      "section": "Продукт",
+      "subsection": "Прайс / DOJO Пионерская / Будни",
+      "page": 31
+    },
+    {
+      "id": "map-pionerskaya",
+      "title": "Карта / DOJO Пионерская",
+      "width": 1400,
+      "height": 1800,
+      "source": "product/product.html",
+      "section": "Продукт",
+      "subsection": "Карта / DOJO Пионерская",
+      "page": 32
+    },
+    {
+      "id": "map-states",
+      "title": "Карта / состояния и доступность",
+      "width": 1400,
+      "height": 1800,
+      "source": "product/product.html",
+      "section": "Продукт",
+      "subsection": "Карта / состояния и доступность",
+      "page": 33
+    },
+    {
+      "id": "roulette-guest",
+      "title": "Рулетка / гостевой экран без соединения",
+      "width": 1400,
+      "height": 1800,
+      "source": "product/product.html",
+      "section": "Продукт",
+      "subsection": "Рулетка / гостевой экран без соединения",
+      "page": 34
+    },
+    {
+      "id": "roulette-prize-pool",
+      "title": "Рулетка / полный пул призов",
+      "width": 1400,
+      "height": 1800,
+      "source": "product/product.html",
+      "section": "Продукт",
+      "subsection": "Рулетка / полный пул призов",
+      "page": 35
+    },
+    {
+      "id": "shop-pionerskaya",
+      "title": "Витрина / DOJO Пионерская",
+      "width": 1400,
+      "height": 1800,
+      "source": "product/product.html",
+      "section": "Продукт",
+      "subsection": "Витрина / DOJO Пионерская",
+      "page": 36
+    },
+    {
+      "id": "v02-tv-states",
+      "title": "ТВ / три состояния",
+      "source": "overview/overview.html",
+      "width": 1920,
+      "height": 1080,
+      "section": "Продукт",
+      "subsection": "ТВ / три состояния",
+      "page": 37
+    },
+    {
+      "id": "catalog-games-1",
+      "title": "Игры / 1",
+      "width": 1400,
+      "height": 1800,
+      "source": "cards/catalog.html",
+      "section": "SmartShell",
+      "subsection": "Игры / 1",
+      "page": 38
+    },
+    {
+      "id": "catalog-apps-1",
+      "title": "Программы и лаунчеры / 1",
+      "width": 1400,
+      "height": 1800,
+      "source": "cards/catalog.html",
+      "section": "SmartShell",
+      "subsection": "Программы и лаунчеры / 1",
+      "page": 39
+    },
+    {
+      "id": "card-anatomy",
+      "title": "Свободный PNG",
+      "width": 1400,
+      "height": 1800,
+      "file": "cards/card-system.html",
+      "source": "cards/card-system.html",
+      "section": "SmartShell",
+      "subsection": "Свободный PNG",
+      "page": 40
+    },
+    {
+      "id": "card-context",
+      "title": "Чтение на разных фонах",
+      "width": 1400,
+      "height": 1800,
+      "file": "cards/card-system.html",
+      "source": "cards/card-system.html",
+      "section": "SmartShell",
+      "subsection": "Чтение на разных фонах",
+      "page": 41
+    },
+    {
+      "id": "card-applications",
+      "title": "Программы и лаунчеры",
+      "width": 1400,
+      "height": 1800,
+      "file": "cards/card-system.html",
+      "source": "cards/card-system.html",
+      "section": "SmartShell",
+      "subsection": "Программы и лаунчеры",
+      "page": 42
+    },
+    {
+      "id": "template-card-valorant",
+      "title": "Вертикальная композиция · VALORANT",
+      "width": 600,
+      "height": 900,
+      "source": "cards/templates.html",
+      "cardKey": "valorant",
+      "composition": "vertical",
+      "layers": {
+        "figure": "bitmap",
+        "lettering": "SVG paths",
+        "captions": "editable HTML text"
+      },
+      "letteringSource": {
+        "text": "VALORANT",
+        "sourceText": "VALORANT",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 613.252,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/valorant.svg"
+      },
+      "section": "SmartShell",
+      "subsection": "Вертикальная композиция · VALORANT",
+      "page": 43
+    },
+    {
+      "id": "template-card-steam",
+      "title": "Лаунчер · Steam",
+      "width": 600,
+      "height": 900,
+      "source": "cards/templates.html",
+      "cardKey": "steam",
+      "composition": "app",
+      "layers": {
+        "figure": "vendor icon and brush bitmap",
+        "lettering": "SVG paths",
+        "captions": "editable HTML text"
+      },
+      "letteringSource": {
+        "text": "STEAM",
+        "sourceText": "STEAM",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 313.1836,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/steam.svg"
+      },
+      "section": "SmartShell",
+      "subsection": "Лаунчер · Steam",
+      "page": 44
+    },
+    {
+      "id": "v02-rights",
+      "title": "Права и ограничения",
+      "source": "brand/v02-additions.html",
+      "width": 1400,
+      "height": 1800,
+      "section": "Права и исходники",
+      "subsection": "Права и ограничения",
+      "page": 45
+    }
+  ]
+}
