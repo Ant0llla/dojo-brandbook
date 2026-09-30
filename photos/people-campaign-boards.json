@@ -1,0 +1,20 @@
+[
+  {
+    "id": "people-club",
+    "title": "Игра идет",
+    "width": 1400,
+    "height": 1800,
+    "file": "photos/people-campaign.html",
+    "sourceKind": "local-club-photo",
+    "description": "Цветной репортаж с реальными гостями DOJO, без генерации людей"
+  },
+  {
+    "id": "people-together",
+    "title": "Собери своих",
+    "width": 1920,
+    "height": 1080,
+    "file": "photos/people-campaign.html",
+    "sourceKind": "licensed-stock-campaign",
+    "description": "Горизонтальная кампания с реальной фотографией RDNE Stock project по лицензии Pexels, не документальное фото DOJO"
+  }
+]

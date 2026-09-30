@@ -1,0 +1,28 @@
+{
+  "source": "brand/brand.html",
+  "boards": [
+    {
+      "id": "character-library",
+      "title": "Персонажи и подача",
+      "width": 1400,
+      "height": 1800,
+      "export": true
+    }
+  ],
+  "updatedBoards": [
+    "creative-feed",
+    "creative-story",
+    "creative-wide",
+    "smartgamer-cover",
+    "smartkiosk-background"
+  ],
+  "characterDistribution": {
+    "cover": "original heroine",
+    "creative-feed": "DJ graphic",
+    "creative-story": "courier full figure",
+    "creative-wide": "real club photo and typography",
+    "smartgamer-cover": "courier portrait crop",
+    "smartkiosk-background": "original mask only",
+    "character-library": "three characters, real people, typographic composition"
+  }
+}

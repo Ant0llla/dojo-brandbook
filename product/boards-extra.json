@@ -1,0 +1,50 @@
+[
+  {
+    "id": "map-shop-pionerskaya",
+    "title": "Карта и витрина / DOJO Пионерская",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "map-shop-komenda",
+    "title": "Карта и витрина / DOJO Коменда",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "shop-promo-drinks",
+    "title": "Промо витрины / Напитки",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "shop-promo-energy",
+    "title": "Промо витрины / Энергетики",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "shop-promo-snack",
+    "title": "Промо витрины / Сладкое",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "signage-connected",
+    "title": "Экран клуба / Данные загружены",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "signage-loading",
+    "title": "Экран клуба / Загрузка",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "signage-stale",
+    "title": "Экран клуба / Данные устарели",
+    "width": 1920,
+    "height": 1080
+  }
+]

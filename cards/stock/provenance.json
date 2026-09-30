@@ -1,0 +1,10 @@
+{
+  "batman-arkham-city": {
+    "sourceKind": "Original canonical game cover already provided in the club SmartShell catalog",
+    "file": "batman-original.jpg",
+    "treatment": "Native layout crop, free-contour polygon, separate brush title; source image unchanged",
+    "generatedCharacter": false,
+    "reason": "Character generation unavailable; canonical source image preserves game identity",
+    "rights": "Original game artwork remains with its rights holders; DOJO layout is a separate adaptation for the user-provided game catalog"
+  }
+}

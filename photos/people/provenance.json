@@ -1,0 +1,48 @@
+{
+  "checkedOn": "2026-09-30",
+  "assets": [
+    {
+      "id": "dojo-guests-67",
+      "file": "dojo-guests-image67-original.jpeg",
+      "origin": "local-club-photo",
+      "selected": true,
+      "author": null,
+      "license": "User-provided club photograph for this design task",
+      "licenseURL": null,
+      "description": "Three guests playing at real suspended PC stations; foreground guest responding with raised hands",
+      "treatment": "Unmodified original; native HTML crop only",
+      "documentaryClubImage": true,
+      "cropGuidance": "Portrait right-aligned crop, preserve all three heads and foreground hands; no face or equipment reconstruction",
+      "dimensions": [
+        2016,
+        1512
+      ],
+      "bytes": 601779,
+      "sha256": "eb5ab1d0912130ee7d20624a524fd9e458b2064fb3634bc76488e48739aab7c1"
+    },
+    {
+      "id": "stock-rdne-7915383",
+      "file": "stock-rdne-7915383-original.jpg",
+      "origin": "stock",
+      "selected": true,
+      "author": "RDNE Stock project",
+      "source": "https://www.pexels.com/photo/friends-having-fun-playing-a-video-game-7915383/",
+      "download": "https://images.pexels.com/photos/7915383/pexels-photo-7915383.jpeg?cs=srgb&dl=pexels-rdne-7915383.jpg&fm=jpg",
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "description": "Four friends reacting during a console game; warm yellow and orange hoodies, visible controllers",
+      "treatment": "Unmodified original; native HTML crop and separate brand typography",
+      "documentaryClubImage": false,
+      "cropGuidance": "Landscape right-side photograph with all foreground hands, controllers and faces retained; lettering placed in separate paper column",
+      "dimensions": [
+        5040,
+        3360
+      ],
+      "bytes": 1303334,
+      "sha256": "1cd0ec2319d0a24bab40925575de2fe7a73eef7175214291852d7d229c1be7fe"
+    }
+  ],
+  "authenticity": "Real photographs only; no generated people, face replacements, invented club context or implied endorsement",
+  "licenseNotes": "Pexels permits creative use and editing for marketing. Do not imply endorsement by depicted people or redistribute the originals as a standalone stock service. Stock frame is not evidence of DOJO premises or guests.",
+  "nativeOverlay": "Exact red DOJO wordmark from brand/assets/logo-wordmark-red.svg; Tektur headings remain native editable text"
+}

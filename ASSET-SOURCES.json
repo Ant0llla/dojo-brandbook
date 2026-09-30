@@ -1,0 +1,781 @@
+{
+  "checkedOn": "2026-09-30",
+  "purpose": "Asset identity, source attribution and rights notes for the public DOJO design kit",
+  "appIcons": [
+    {
+      "key": "steam",
+      "file": "cards/icons/steam.svg",
+      "sha256": "fcb211f1425338e7e3f8e259e50afdce2355e484e2f37ca29d26ecf8ecb68462",
+      "provenance": {
+        "key": "steam",
+        "sourceUrl": "https://store.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016",
+        "provenance": "official vendor SVG logo",
+        "transform": "viewBox isolates original symbol from wordmark lockup, path geometry and colors unchanged",
+        "sha256": "fcb211f1425338e7e3f8e259e50afdce2355e484e2f37ca29d26ecf8ecb68462",
+        "bytes": 3678,
+        "transparency": "SVG has no full opaque rectangular background; vendor rounded icon backgrounds retained",
+        "status": "source_verified_visual_reviewed",
+        "pngAlphaRange": [
+          0,
+          255
+        ],
+        "pngDimensions": [
+          512,
+          512
+        ]
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "battle-net",
+      "file": "cards/icons/battle-net.svg",
+      "sha256": "9affc01069c576e71a2657faf01c50622b706a9dd3e5238ad25e7ffda4dd71b9",
+      "provenance": {
+        "key": "battle-net",
+        "source": "https://blz-contentstack-images.akamaized.net/v3/assets/blt13393558c8f39060/bltc033281ebe085f52/6442f1f9fac1726ff56fc234/nexus_logomark.svg",
+        "identityEvidence": "https://download.battle.net/en-us/desktop",
+        "provenance": "Official Battle.net download page original vector logo on Blizzard CDN",
+        "quality": "Native vendor vector and transparent 512px raster export",
+        "transform": "Only SVG viewport changed to isolate existing logo symbol from full vertical wordmark; no path or color modifications. PNG rasterized at 512px from vector.",
+        "sha256": "9affc01069c576e71a2657faf01c50622b706a9dd3e5238ad25e7ffda4dd71b9",
+        "bytes": 4459,
+        "mode": "RGBA",
+        "alphaRange": [
+          0,
+          255
+        ],
+        "status": "source_verified_visual_reviewed",
+        "pngAlphaRange": [
+          0,
+          255
+        ],
+        "pngDimensions": [
+          512,
+          512
+        ],
+        "pngSha256": "3522e862d561c5f3a15485eb218bb2d5c69d3c5e77725c05e7e5823a202e4304"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "epic-games",
+      "file": "cards/icons/epic-games.png",
+      "sha256": "06253f402336d4f0344ba2199371c7516402f8b3723b3f19ffa668bf65e635d3",
+      "provenance": {
+        "key": "epic-games",
+        "source": "https://epicgames.box.com/s/82lsf9a2lfqyiwl6fra3y9cac2rm5cbd/file/664104764958",
+        "identityEvidence": "https://dev.epicgames.com/docs/epic-online-services/accounts-and-social/eos-epic-account-services/epic-account-services-design-guidelines?lang=en-US",
+        "provenance": "Official Epic Games logo collection linked directly from Epic developer documentation; Epic-Games-White-Solid.png",
+        "quality": "Original transparent 1024px PNG; no upscale",
+        "transform": "Byte copy of vendor PNG",
+        "sha256": "06253f402336d4f0344ba2199371c7516402f8b3723b3f19ffa668bf65e635d3",
+        "bytes": 19072,
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "mode": "RGBA",
+        "alphaRange": [
+          0,
+          255
+        ],
+        "status": "source_verified_visual_reviewed",
+        "pngAlphaRange": [
+          0,
+          255
+        ],
+        "pngDimensions": [
+          1024,
+          1024
+        ],
+        "pngSha256": "06253f402336d4f0344ba2199371c7516402f8b3723b3f19ffa668bf65e635d3"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "iccup",
+      "file": "cards/icons/iccup.png",
+      "sha256": "9b7f9172af0594296685a320fb6c9fbffabe6bb1cf9a20d7500a70c0f308fae0",
+      "provenance": {
+        "key": "iccup",
+        "source": "https://iccup.com/templates/images/logotype-sm.png",
+        "identityEvidence": "https://iccup.com/templates/styles/style.css?1778001587",
+        "provenance": "Official ICCup website logotype-shield image, original transparent PNG",
+        "quality": "Original 91x120 source, no upscale. Limited to native size; larger vendor vector not found",
+        "transform": "Byte copy",
+        "sha256": "9b7f9172af0594296685a320fb6c9fbffabe6bb1cf9a20d7500a70c0f308fae0",
+        "bytes": 20934,
+        "dimensions": [
+          91,
+          120
+        ],
+        "mode": "RGBA",
+        "alphaRange": [
+          0,
+          255
+        ],
+        "status": "source_verified_visual_reviewed",
+        "pngAlphaRange": [
+          0,
+          255
+        ],
+        "pngDimensions": [
+          91,
+          120
+        ]
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "riot-client",
+      "file": "cards/icons/riot-client.png",
+      "sha256": "27578a0a9c2340e5ac397b83d3ab02da9332004bf85c6aa5f338235b2fff14e9",
+      "provenance": {
+        "key": "riot-client",
+        "sourceUrl": "https://www.riotgames.com/en/press",
+        "provenance": "official vendor asset",
+        "transform": "byte copy",
+        "sha256": "27578a0a9c2340e5ac397b83d3ab02da9332004bf85c6aa5f338235b2fff14e9",
+        "bytes": 13192,
+        "dimensions": [
+          773,
+          682
+        ],
+        "mode": "RGBA",
+        "alphaRange": [
+          0,
+          255
+        ],
+        "status": "source_verified_visual_reviewed",
+        "pngAlphaRange": [
+          0,
+          255
+        ],
+        "pngDimensions": [
+          773,
+          682
+        ]
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "vk-play",
+      "file": "cards/icons/vk-play.svg",
+      "sha256": "3dfacdcceaef8a6ce378825b88e68951b3ddd61046517431117e9ff2b9e3718b",
+      "provenance": {
+        "key": "vk-play",
+        "sourceUrl": "https://vkplay.ru/hotbox/favicon/favicon.svg",
+        "provenance": "official vendor asset",
+        "transform": "byte copy",
+        "sha256": "3dfacdcceaef8a6ce378825b88e68951b3ddd61046517431117e9ff2b9e3718b",
+        "bytes": 967,
+        "transparency": "SVG has no full opaque rectangular background; vendor rounded icon backgrounds retained",
+        "status": "source_verified_visual_reviewed",
+        "pngAlphaRange": [
+          0,
+          255
+        ],
+        "pngDimensions": [
+          512,
+          512
+        ]
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "lesta",
+      "file": "cards/icons/lesta.svg",
+      "sha256": "672f10606b9fb079750019fbe5924f287aba861785db526707ab82789fc323b4",
+      "provenance": {
+        "key": "lesta",
+        "sourceUrl": "https://web-media-files.lstprod.net/entry_page/favicon.svg",
+        "provenance": "official vendor asset",
+        "transform": "byte copy",
+        "sha256": "672f10606b9fb079750019fbe5924f287aba861785db526707ab82789fc323b4",
+        "bytes": 363,
+        "transparency": "SVG has no full opaque rectangular background; vendor rounded icon backgrounds retained",
+        "status": "source_verified_visual_reviewed",
+        "pngAlphaRange": [
+          0,
+          255
+        ],
+        "pngDimensions": [
+          512,
+          512
+        ]
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "hoyoplay",
+      "file": "cards/icons/hoyoplay.png",
+      "sha256": "1987a421d05bda4b5599b434860c544eba2f4efeeb0f1bf048ea39446641eff4",
+      "provenance": {
+        "key": "hoyoplay",
+        "sourceUrl": "https://act-webstatic.hoyoverse.com/puzzle/hyp/pz_Bur_m6Btc7/resource/puzzle/2024/10/21/b9992eaa38d4b36641accee82ede7bd3_3188319471762169697.png",
+        "provenance": "official vendor asset",
+        "transform": "byte copy",
+        "sha256": "1987a421d05bda4b5599b434860c544eba2f4efeeb0f1bf048ea39446641eff4",
+        "bytes": 1916,
+        "dimensions": [
+          90,
+          90
+        ],
+        "mode": "RGBA",
+        "alphaRange": [
+          0,
+          255
+        ],
+        "status": "source_verified_visual_reviewed",
+        "pngAlphaRange": [
+          0,
+          255
+        ],
+        "pngDimensions": [
+          90,
+          90
+        ]
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "ubisoft",
+      "file": "cards/icons/ubisoft.svg",
+      "sha256": "dc925109573abf7f0064e8dd461446cbf887e78b3477bb2a05a1097724ab0de4",
+      "provenance": {
+        "key": "ubisoft",
+        "source": "https://ubi-static-website-hosting-prod.ubisoft.com/ubigroup-website/prod/8916f12ebfb38e32184071200a819235.svg",
+        "sourceUrl": "https://ubi-static-website-hosting-prod.ubisoft.com/ubigroup-website/prod/8916f12ebfb38e32184071200a819235.svg",
+        "provenance": "Official Ubisoft website icon font, exact glyph ubisoft-logo U+E907 linked by official CSS",
+        "transform": "Original SVG glyph path unchanged, font coordinate inversion and computed viewport with 3% margin, technical raster export 512px",
+        "sha256": "dc925109573abf7f0064e8dd461446cbf887e78b3477bb2a05a1097724ab0de4",
+        "bytes": 1449,
+        "dimensions": [
+          512,
+          512
+        ],
+        "mode": "RGBA",
+        "alphaRange": [
+          0,
+          255
+        ],
+        "status": "source_verified_visual_reviewed",
+        "pngAlphaRange": [
+          0,
+          255
+        ],
+        "pngDimensions": [
+          512,
+          512
+        ],
+        "pngSha256": "5df39b43ea40855266d4b3d4cf8c512849c659b376cefe4455f51d7cf74991e9",
+        "quality": "Exact vendor vector, crisp 512px transparent PNG, source black retained for light tile",
+        "evidence": "Official press page references Ubisoft-Icons in main.e02287ce99c9c47240a3.css; CSS maps ui-ubisoft-logo to U+E907",
+        "currentNativeFill": "assets-v2/app-icons/ubisoft-verified512.png"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "ea",
+      "file": "cards/icons/ea.svg",
+      "sha256": "0c1d5c05f978ed4612960235322e93bbe3cda368fc8cebe0b2bd72d0389f3f15",
+      "provenance": {
+        "key": "ea",
+        "sourceUrl": "https://media.contentapi.ea.com/content/dam/eacom/common/ea-wordmark-network-nav-coral.svg",
+        "provenance": "official vendor SVG logo",
+        "transform": "viewBox isolates original symbol from wordmark lockup, path geometry and colors unchanged",
+        "sha256": "0c1d5c05f978ed4612960235322e93bbe3cda368fc8cebe0b2bd72d0389f3f15",
+        "bytes": 4705,
+        "transparency": "SVG has no full opaque rectangular background; vendor rounded icon backgrounds retained",
+        "status": "source_verified_visual_reviewed",
+        "pngAlphaRange": [
+          0,
+          255
+        ],
+        "pngDimensions": [
+          512,
+          512
+        ]
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "rentalgames",
+      "file": "cards/icons/rentalgames.png",
+      "sha256": "978632e4c53ca5df5d57321dfd7e63bf70311d2b9d946349611dae9a2cdf6732",
+      "provenance": {
+        "key": "rentalgames",
+        "sourceUrl": "https://rentalgames.ru/images/logo.png",
+        "provenance": "official vendor asset",
+        "transform": "byte copy",
+        "sha256": "978632e4c53ca5df5d57321dfd7e63bf70311d2b9d946349611dae9a2cdf6732",
+        "bytes": 14080,
+        "dimensions": [
+          218,
+          105
+        ],
+        "mode": "RGBA",
+        "alphaRange": [
+          0,
+          255
+        ],
+        "status": "source_verified_visual_reviewed",
+        "pngAlphaRange": [
+          0,
+          255
+        ],
+        "pngDimensions": [
+          218,
+          105
+        ]
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "curseforge",
+      "file": "cards/icons/curseforge.svg",
+      "sha256": "8967ea1311a0786f79c369366ed510729d200fac650ebc648d398f7a9771f66b",
+      "provenance": {
+        "key": "curseforge",
+        "sourceUrl": "https://github.com/FortAwesome/Font-Awesome/issues/19724",
+        "officialVisualReference": "https://console-apps.overwolf.com/prod/apps/cchhcaiapeikjbdbpfplgmpobbcdkdaphclbmkbj/assets/c2738f03-c55f-4baa-aa13-9c670b76c3b3.png",
+        "provenance": "Exact vendor SVG markup quoted in public Font Awesome issue, shape visually matched to official Overwolf current app icon",
+        "transform": "none, copied exact SVG path, no invented geometry",
+        "sourceLimitation": "Official CurseForge SVG endpoint returned403; SVG byte provenance is mirror, official raster visual verified",
+        "sha256": "8967ea1311a0786f79c369366ed510729d200fac650ebc648d398f7a9771f66b",
+        "bytes": 455,
+        "transparency": "SVG has no full opaque rectangular background; vendor rounded icon backgrounds retained",
+        "status": "source_verified_visual_reviewed",
+        "pngAlphaRange": [
+          0,
+          255
+        ],
+        "pngDimensions": [
+          512,
+          512
+        ]
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "faceit-ac",
+      "file": "cards/icons/faceit.png",
+      "sha256": "303777426829642315cd85cc6cc98f77feacea122040b36c48d566a21788c902",
+      "provenance": {
+        "key": "faceit",
+        "path": "assets-v2/app-icons/faceit.png",
+        "sourceKind": "vendor-official",
+        "source": "https://eslfaceitgroup.com/wp-content/uploads/2022/03/brandlogo-faceit.png",
+        "note": "Official corporate logo, original250x140 transparent canvas. Dark wordmark intended for light surface. Compact orange-only symbol not provided by this source",
+        "status": "verified-transparent-source",
+        "usageNote": "Same corporate FACEIT mark used for FACEIT AC; not claimed to be the separate official anti-cheat app icon"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "faceit",
+      "file": "cards/icons/faceit.png",
+      "sha256": "303777426829642315cd85cc6cc98f77feacea122040b36c48d566a21788c902",
+      "provenance": {
+        "key": "faceit",
+        "path": "assets-v2/app-icons/faceit.png",
+        "sourceKind": "vendor-official",
+        "source": "https://eslfaceitgroup.com/wp-content/uploads/2022/03/brandlogo-faceit.png",
+        "note": "Official corporate logo, original250x140 transparent canvas. Dark wordmark intended for light surface. Compact orange-only symbol not provided by this source",
+        "status": "verified-transparent-source"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "discord",
+      "file": "cards/icons/discord.png",
+      "sha256": "05abd2440b11153e9b30676fc06789d74aaca9aaf688b09495ee0d5fb078b90b",
+      "provenance": {
+        "key": "discord",
+        "path": "assets-v2/app-icons/discord.png",
+        "sourceKind": "local-official",
+        "note": "Largest native ICO frame extracted, original RGBA preserved",
+        "status": "verified-transparent-source"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "chrome",
+      "file": "cards/icons/chrome.png",
+      "sha256": "8aa4543e26802a38c8df0fb23dfb5ae88ca3fedaac3e6f1d6ac45c44db05fe90",
+      "provenance": {
+        "key": "chrome",
+        "path": "assets-v2/app-icons/chrome.png",
+        "sourceKind": "local-official",
+        "note": "IDR_MAINFRAME native 256px group extracted without executing program",
+        "status": "verified-transparent-source"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "ghub",
+      "file": "cards/icons/ghub.png",
+      "sha256": "88937ecd7e6d7bfd2f09b417cf1b046a0c7ac566930f61210a50663fa60d53d9",
+      "provenance": {
+        "key": "ghub",
+        "path": "assets-v2/app-icons/ghub.png",
+        "sourceKind": "local-official",
+        "note": "Group1 native256px app icon",
+        "status": "verified-transparent-source"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "dragonfly",
+      "file": "cards/icons/dragonfly.png",
+      "sha256": "246415480198f0c451c792774e85ba324142517194354edf4446ff530cdbe5c7",
+      "provenance": {
+        "key": "dragonfly",
+        "path": "assets-v2/app-icons/dragonfly.png",
+        "sourceKind": "vendor-official",
+        "source": "https://cdn.vgnclub.com/hub/web/assets/icons/logo.png",
+        "note": "Official VGN HUB wordmark linked in hub.vgnlab.com app bundle. Original 298x40 transparent. Horizontal wordmark, not a compact app icon. Dragonfly F1 software identity confirmed by official VGN site; exact installed app version unknown",
+        "status": "verified-transparent-source"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "nvidia",
+      "file": "cards/icons/nvidia.svg",
+      "sha256": "c4655bfea119916672809756f8c47e6cf2e3838a96c0beedcef632b4caf41f21",
+      "provenance": {
+        "key": "nvidia",
+        "path": "assets-v2/app-icons/nvidia.svg",
+        "sourceKind": "local-official",
+        "note": "Original path preserved; source viewBox cropped the eye, corrected canvas to0 0 768 768. Also512px PNG export. This is NVIDIA symbol, not exact Control Panel executable icon",
+        "status": "verified-transparent-source"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "explorer",
+      "file": "cards/icons/explorer.png",
+      "sha256": "7fe88541dd5820f9823a027118ed565b0541043f79e27074a3f670a13ccf6767",
+      "provenance": {
+        "key": "explorer",
+        "path": "assets-v2/app-icons/explorer.png",
+        "sourceKind": "local-official",
+        "note": "Original official unplated transparent file copied",
+        "status": "verified-transparent-source"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "task-manager",
+      "file": "cards/icons/task-manager.png",
+      "sha256": "95d13fb6a4817aa1054939f96076d3e15e82c026fd2a6079370c35daa4092c50",
+      "provenance": {
+        "key": "task-manager",
+        "path": "assets-v2/app-icons/task-manager.png",
+        "sourceKind": "local-official",
+        "note": "Group30651 native256px app icon",
+        "status": "verified-transparent-source"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "teamspeak",
+      "file": "cards/icons/teamspeak.svg",
+      "sha256": "07768b7e2f232951ba69e6e5b5cfd1b87a8147a4b0bb8062fed99c11bffa206f",
+      "provenance": {
+        "key": "teamspeak",
+        "path": "assets-v2/app-icons/teamspeak.svg",
+        "sourceKind": "vendor-official",
+        "source": "https://www.teamspeak.com/user/themes/teamspeak/assets/images/mediakit/TS_InLine_BlueDark.svg",
+        "note": "Two original blue icon paths isolated from official inline logo without redrawing; viewBox0 0 84 80. Also512px PNG export",
+        "status": "verified-transparent-source"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "obs",
+      "file": "cards/icons/obs.png",
+      "sha256": "baf599d33f5d133982c3772fd6b2b5077fa246680afad252033357f6b773a49a",
+      "provenance": {
+        "key": "obs",
+        "path": "assets-v2/app-icons/obs.png",
+        "sourceKind": "local-official",
+        "note": "IDI_ICON1 native256px app icon",
+        "status": "verified-transparent-source"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "yandex-music",
+      "file": "cards/icons/yandex-music.svg",
+      "sha256": "c35036a48db37ad94a2fa2ae3e6ddc1d214c46a925b733791a57667ebd64cd44",
+      "provenance": {
+        "key": "yandex-music",
+        "path": "assets-v2/app-icons/yandex-music.svg",
+        "sourceKind": "vendor-official",
+        "source": "https://yastatic.net/s3/doc-binary/src/mediaservices/yandex_music_icon_main.svg",
+        "note": "Official yellow transparent icon unchanged. Also512px PNG export. Use on dark background with clear space",
+        "status": "verified-transparent-source"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "yandex-browser",
+      "file": "cards/icons/yandex-browser.svg",
+      "sha256": "95bbd60c2286ced676572926ee0be93670900476eadc95ca582a9550a431bcef",
+      "provenance": {
+        "key": "yandex-browser",
+        "source": "https://browser.yandex.ru/icon.svg",
+        "kind": "official_app_icon",
+        "status": "verified_source_visual_qa_pass",
+        "identityNote": "Official current browser favicon SVG",
+        "alteration": "none; format decode only for ICO",
+        "transparency": "SVG with no rectangular background; app roundel retained when part of original identity",
+        "pngDimensions": [
+          512,
+          512
+        ],
+        "pngAlphaRange": [
+          0,
+          255
+        ],
+        "technicalExport": "Sharp SVG rasterization at 512 px, alpha preserved, geometry unchanged"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "zapret",
+      "file": "cards/icons/zapret.svg",
+      "sha256": "ec8b8785db0104771f961bd4385ca159eda42293ee667580865cab9f40f79866",
+      "provenance": {
+        "kind": "original-functional-pictogram",
+        "source": "Inline SVG designed for DOJO utility identification",
+        "identityNote": "Generic function pictogram, not an official vendor mark"
+      },
+      "rights": "Original simple functional pictogram in this kit; does not claim a vendor identity"
+    },
+    {
+      "key": "volume",
+      "file": "cards/icons/volume.svg",
+      "sha256": "ce6f89d1baf1d40f3fb669d40aa07a9628c9f9b3cf720ccd4e9c0b03a9a6f821",
+      "provenance": {
+        "kind": "original-functional-pictogram",
+        "source": "Inline SVG designed for DOJO utility identification",
+        "identityNote": "Generic function pictogram, not an official vendor mark"
+      },
+      "rights": "Original simple functional pictogram in this kit; does not claim a vendor identity"
+    },
+    {
+      "key": "atk",
+      "file": "cards/icons/atk.png",
+      "sha256": "bae89d9a8e92cb2f5b75a4250dd5bc73d7808dfefb567c37f466eba2e14c65b5",
+      "provenance": {
+        "key": "atk",
+        "source": "https://desktop.atk.store/logo.ico",
+        "kind": "official_app_icon",
+        "status": "verified_source_visual_qa_pass",
+        "identityNote": "Official ATK HUB website icon, decoded largest 256 px ICO image",
+        "alteration": "none; format decode only for ICO",
+        "dimensions": [
+          256,
+          256
+        ],
+        "alphaRange": [
+          0,
+          255
+        ]
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "snipping-tool",
+      "file": "cards/icons/snipping-tool.png",
+      "sha256": "124c2b21fb173552d224d4b55c3f54702fdbe64206986f1c0b224810b4d4fec3",
+      "provenance": {
+        "key": "snipping-tool",
+        "kind": "local_app_resource",
+        "status": "verified_source_visual_qa_pass",
+        "dimensions": [
+          256,
+          256
+        ],
+        "alphaRange": [
+          0,
+          255
+        ],
+        "alteration": "none"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "razer",
+      "file": "cards/icons/razer.svg",
+      "sha256": "5beec6b8f0ee5b2f481fdf26045d918ca3a5952ecedc61ad51444ecbf054fd60",
+      "provenance": {
+        "key": "razer",
+        "source": "https://assets2.razerzone.com/images/phoenix/razer-ths-logo.svg",
+        "kind": "official_vendor_mark",
+        "status": "verified_source_visual_qa_pass",
+        "identityNote": "Official Razer brand symbol, exact installed Synapse variant unverified",
+        "alteration": "none; format decode only for ICO",
+        "transparency": "SVG with no rectangular background; app roundel retained when part of original identity",
+        "pngDimensions": [
+          509,
+          512
+        ],
+        "pngAlphaRange": [
+          0,
+          255
+        ],
+        "technicalExport": "Sharp SVG rasterization at 512 px, alpha preserved, geometry unchanged"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "valorant-tracker",
+      "file": "cards/icons/valorant-tracker.png",
+      "sha256": "9035f1cda1a605e12c97a7036fba24a8f02dec9ecbdb605d409405430d6f62f8",
+      "provenance": {
+        "key": "valorant-tracker",
+        "source": "https://trackercdn.com/cdn/tracker.gg/tracker-network-media-kit.zip",
+        "kind": "official_vendor_mark",
+        "status": "verified_source_visual_qa_pass",
+        "identityNote": "TRN-Logo_icon-color.png from official press kit linked by tracker.gg/valorant/app; common Tracker Network symbol",
+        "alteration": "none; format decode only for ICO",
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "alphaRange": [
+          0,
+          255
+        ]
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "lamzu",
+      "file": "cards/icons/lamzu.png",
+      "sha256": "275a6ff08a6029457f05fe4481e0bdbaa444830ea486ca1bc3e474154fb2cd8b",
+      "provenance": {
+        "key": "lamzu",
+        "source": "https://lamzu.com/cdn/shop/files/lQLPJxZxXO--npPNAWPNB0qwWkzXOEDu6bACuszgo8CvAA_1866_355.png?v=1656326136",
+        "kind": "official_vendor_mark",
+        "status": "verified_source_visual_qa_pass",
+        "identityNote": "Official white LAMZU wordmark, use on dark background; exact Aurora app icon unverified",
+        "alteration": "none; format decode only for ICO",
+        "dimensions": [
+          1866,
+          355
+        ],
+        "alphaRange": [
+          0,
+          255
+        ]
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "vhub-atk",
+      "file": "cards/icons/vhub-atk.png",
+      "sha256": "bae89d9a8e92cb2f5b75a4250dd5bc73d7808dfefb567c37f466eba2e14c65b5",
+      "provenance": {
+        "key": "vhub-atk",
+        "source": "https://desktop.atk.store/logo.ico",
+        "kind": "official_vendor_mark",
+        "status": "verified_source_visual_qa_pass",
+        "identityNote": "Common ATK vendor mark; exact installed V HUB executable icon unverified",
+        "alteration": "none; format decode only for ICO",
+        "dimensions": [
+          256,
+          256
+        ],
+        "alphaRange": [
+          0,
+          255
+        ]
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "zone51",
+      "file": "cards/icons/zone51.svg",
+      "sha256": "54719ba7abc02364e2ba944c64911b671243c48dd4a2c828b39dfc10498e21ac",
+      "provenance": {
+        "key": "zone51",
+        "source": "https://z51.ru/local/templates/z51/img/fav/safari-pinned-tab.svg",
+        "kind": "official_vendor_mark",
+        "status": "verified_source_visual_qa_pass",
+        "identityNote": "Official Zone51 mask icon; black symbol, use on light surface; Sage Pro driver executable icon unverified",
+        "alteration": "none; format decode only for ICO",
+        "transparency": "SVG with no rectangular background; app roundel retained when part of original identity",
+        "pngDimensions": [
+          512,
+          512
+        ],
+        "pngAlphaRange": [
+          0,
+          255
+        ],
+        "technicalExport": "Sharp SVG rasterization at 512 px, alpha preserved, geometry unchanged"
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "battlestate",
+      "file": "cards/icons/battlestate.png",
+      "sha256": "d06b9627ce711f1ea18804f4f6fb6f6a2c81ecc7bad416ebf61a2f49f6fe4774",
+      "provenance": {
+        "key": "battlestate",
+        "source": "https://www.battlestategames.com/_nuxt/img/BATTLESTATEGAMES.ac764db.png",
+        "kind": "official_vendor_mark",
+        "status": "verified_source_visual_qa_pass",
+        "identityNote": "Official transparent Battlestate Games wordmark; compact official mask icon rejected because it is an opaque square",
+        "alteration": "none; format decode only for ICO",
+        "dimensions": [
+          414,
+          37
+        ],
+        "alphaRange": [
+          0,
+          208
+        ]
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    },
+    {
+      "key": "attack-shark",
+      "file": "cards/icons/attack-shark.png",
+      "sha256": "4e3b78f5d0fbfb0d12108a213340350d659fb5b14d4b63b10fe6aaca993fbe4f",
+      "provenance": {
+        "key": "attack-shark",
+        "source": "https://attackshark.com/cdn/shop/files/logo_cf100903-ef20-4bdb-90c1-f67313a90fa7.png?v=1711179951",
+        "kind": "official_vendor_mark",
+        "status": "verified_source_visual_qa_pass",
+        "identityNote": "Official Attack Shark symbol; black symbol, use on light surface",
+        "alteration": "none; format decode only for ICO",
+        "dimensions": [
+          180,
+          180
+        ],
+        "alphaRange": [
+          0,
+          255
+        ]
+      },
+      "rights": "Vendor/service identification mark; not a DOJO original or a separately licensed stock collection"
+    }
+  ],
+  "fontLicenses": {
+    "Tektur": "assets/tektur-ofl.txt",
+    "Golos Text": "assets/golos-OFL.txt",
+    "Edo SZ": "assets/lettering/edo-sz/LICENSING.txt"
+  },
+  "gameArt": "cards/fashion-art/*.json retain full prompts, generated origin and identity sources; earlier editing inputs named there are historical provenance, not live package dependencies",
+  "stockFallback": "cards/stock/provenance.json",
+  "clubPhotos": "photos/provenance.json",
+  "peoplePhotos": "photos/people/provenance.json",
+  "productPackshots": "product/assets/product-image-sources.json",
+  "brandLogo": "brand/assets/logo-manifest.json",
+  "merch": "brand/assets/merch-generation.json"
+}

@@ -1,0 +1,3202 @@
+{
+  "count": 81,
+  "sourceSnapshot": "2026-09-28",
+  "cards": [
+    {
+      "key": "steam",
+      "title": "Steam",
+      "category": "launcher",
+      "icon": "icons/steam.svg",
+      "index": 1,
+      "design": "typographic-icon",
+      "displayTitle": "Steam",
+      "artKey": "steam",
+      "isApp": true,
+      "file": "exports/steam.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "STEAM",
+      "subtitle": "Steam",
+      "vectorLettering": {
+        "text": "STEAM",
+        "sourceText": "STEAM",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 313.1836,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/steam.svg"
+      }
+    },
+    {
+      "key": "battle-net",
+      "title": "Battle.net",
+      "category": "launcher",
+      "icon": "icons/battle-net.svg",
+      "index": 2,
+      "design": "typographic-icon",
+      "displayTitle": "Battle net",
+      "artKey": "battle-net",
+      "isApp": true,
+      "file": "exports/battle-net.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "BATTLE NET",
+      "subtitle": "Battle net",
+      "vectorLettering": {
+        "text": "BATTLE NET",
+        "sourceText": "BATTLE NET",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 75.0,
+        "width": 370.8618,
+        "height": 66.0,
+        "format": "SVG paths",
+        "pathFile": "lettering/battle-net.svg"
+      }
+    },
+    {
+      "key": "epic-games",
+      "title": "Epic Games Launcher",
+      "category": "launcher",
+      "icon": "icons/epic-games.png",
+      "index": 3,
+      "design": "typographic-icon",
+      "displayTitle": "Epic Games",
+      "artKey": "epic-games",
+      "isApp": true,
+      "file": "exports/epic-games.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "EPIC GAMES",
+      "subtitle": "Epic Games",
+      "vectorLettering": {
+        "text": "EPIC GAMES",
+        "sourceText": "EPIC GAMES",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 75.0,
+        "width": 357.8979,
+        "height": 66.0,
+        "format": "SVG paths",
+        "pathFile": "lettering/epic-games.svg"
+      }
+    },
+    {
+      "key": "iccup",
+      "title": "ICCup",
+      "category": "launcher",
+      "icon": "icons/iccup.png",
+      "index": 4,
+      "design": "typographic-icon",
+      "displayTitle": "ICCup",
+      "artKey": "iccup",
+      "isApp": true,
+      "file": "exports/iccup.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "IC CUP",
+      "subtitle": "ICCup",
+      "vectorLettering": {
+        "text": "IC CUP",
+        "sourceText": "IC CUP",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 302.2852,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/iccup.svg"
+      }
+    },
+    {
+      "key": "riot-client",
+      "title": "Riot Client",
+      "category": "launcher",
+      "icon": "icons/riot-client.png",
+      "index": 5,
+      "design": "typographic-icon",
+      "displayTitle": "Riot Client",
+      "artKey": "riot-client",
+      "isApp": true,
+      "file": "exports/riot-client.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "RIOT",
+      "subtitle": "Riot Client",
+      "vectorLettering": {
+        "text": "RIOT",
+        "sourceText": "RIOT",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 214.8047,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/riot-client.svg"
+      }
+    },
+    {
+      "key": "vk-play",
+      "title": "VK Play GameCenter",
+      "category": "launcher",
+      "icon": "icons/vk-play.svg",
+      "index": 6,
+      "design": "typographic-icon",
+      "displayTitle": "VK Play",
+      "artKey": "vk-play",
+      "isApp": true,
+      "file": "exports/vk-play.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "VK PLAY",
+      "subtitle": "VK Play",
+      "vectorLettering": {
+        "text": "VK PLAY",
+        "sourceText": "VK PLAY",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 107.1,
+        "width": 365.1231,
+        "height": 94.248,
+        "format": "SVG paths",
+        "pathFile": "lettering/vk-play.svg"
+      }
+    },
+    {
+      "key": "lesta",
+      "title": "Lesta",
+      "category": "launcher",
+      "icon": "icons/lesta.svg",
+      "index": 7,
+      "design": "typographic-icon",
+      "displayTitle": "Lesta",
+      "artKey": "lesta",
+      "isApp": true,
+      "file": "exports/lesta.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "LESTA",
+      "subtitle": "Lesta",
+      "vectorLettering": {
+        "text": "LESTA",
+        "sourceText": "LESTA",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 304.3945,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/lesta.svg"
+      }
+    },
+    {
+      "key": "hoyoplay",
+      "title": "HoYoPlay",
+      "category": "launcher",
+      "icon": "icons/hoyoplay.png",
+      "index": 8,
+      "design": "typographic-icon",
+      "displayTitle": "HoYoPlay",
+      "artKey": "hoyoplay",
+      "isApp": true,
+      "file": "exports/hoyoplay.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "HOYOPLAY",
+      "subtitle": "HoYoPlay",
+      "vectorLettering": {
+        "text": "HOYOPLAY",
+        "sourceText": "HOYOPLAY",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 93.8,
+        "width": 406.8941,
+        "height": 82.544,
+        "format": "SVG paths",
+        "pathFile": "lettering/hoyoplay.svg"
+      }
+    },
+    {
+      "key": "ubisoft",
+      "title": "Ubisoft launcher",
+      "category": "launcher",
+      "icon": "icons/ubisoft.svg",
+      "index": 9,
+      "design": "typographic-icon",
+      "displayTitle": "Ubisoft Connect",
+      "artKey": "ubisoft",
+      "isApp": true,
+      "file": "exports/ubisoft.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "UBISOFT",
+      "subtitle": "Ubisoft Connect",
+      "vectorLettering": {
+        "text": "UBISOFT",
+        "sourceText": "UBISOFT",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 107.1,
+        "width": 358.0633,
+        "height": 94.248,
+        "format": "SVG paths",
+        "pathFile": "lettering/ubisoft.svg"
+      }
+    },
+    {
+      "key": "ea",
+      "title": "EA Launcher",
+      "category": "launcher",
+      "icon": "icons/ea.svg",
+      "index": 10,
+      "design": "typographic-icon",
+      "displayTitle": "EA",
+      "artKey": "ea",
+      "isApp": true,
+      "file": "exports/ea.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "EA",
+      "subtitle": "EA",
+      "vectorLettering": {
+        "text": "EA",
+        "sourceText": "EA",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 130.5469,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/ea.svg"
+      }
+    },
+    {
+      "key": "rentalgames",
+      "title": "RentalGames - аренда игровых аккаунтов",
+      "category": "app",
+      "icon": "icons/rentalgames.png",
+      "index": 11,
+      "design": "typographic-icon",
+      "displayTitle": "RentalGames",
+      "artKey": "rentalgames",
+      "isApp": true,
+      "file": "exports/rentalgames.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "RENTAL GAMES",
+      "subtitle": "RentalGames",
+      "vectorLettering": {
+        "text": "RENTAL GAMES",
+        "sourceText": "RENTAL|GAMES",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 381.3281,
+        "height": 211.2,
+        "format": "SVG paths",
+        "pathFile": "lettering/rentalgames.svg"
+      }
+    },
+    {
+      "key": "curseforge",
+      "title": "Curse Forge",
+      "category": "app",
+      "icon": "icons/curseforge.svg",
+      "index": 12,
+      "design": "typographic-icon",
+      "displayTitle": "CurseForge",
+      "artKey": "curseforge",
+      "isApp": true,
+      "file": "exports/curseforge.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "CURSE FORGE",
+      "subtitle": "CurseForge",
+      "vectorLettering": {
+        "text": "CURSE FORGE",
+        "sourceText": "CURSE|FORGE",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 321.6211,
+        "height": 211.2,
+        "format": "SVG paths",
+        "pathFile": "lettering/curseforge.svg"
+      }
+    },
+    {
+      "key": "faceit-ac",
+      "title": "FACEIT AC",
+      "category": "app",
+      "icon": "icons/faceit.png",
+      "index": 13,
+      "design": "typographic-icon",
+      "displayTitle": "FACEIT AC",
+      "artKey": "faceit-ac",
+      "isApp": true,
+      "file": "exports/faceit-ac.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "FACEIT AC",
+      "subtitle": "FACEIT AC",
+      "vectorLettering": {
+        "text": "FACEIT AC",
+        "sourceText": "FACEIT AC",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 83.3,
+        "width": 342.1076,
+        "height": 73.304,
+        "format": "SVG paths",
+        "pathFile": "lettering/faceit-ac.svg"
+      }
+    },
+    {
+      "key": "faceit",
+      "title": "FACEIT",
+      "category": "app",
+      "icon": "icons/faceit.png",
+      "index": 14,
+      "design": "typographic-icon",
+      "displayTitle": "FACEIT",
+      "artKey": "faceit",
+      "isApp": true,
+      "file": "exports/faceit.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "FACEIT",
+      "subtitle": "FACEIT",
+      "vectorLettering": {
+        "text": "FACEIT",
+        "sourceText": "FACEIT",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 329.1797,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/faceit.svg"
+      }
+    },
+    {
+      "key": "discord",
+      "title": "Discord",
+      "category": "app",
+      "icon": "icons/discord.png",
+      "index": 15,
+      "design": "typographic-icon",
+      "displayTitle": "Discord",
+      "artKey": "discord",
+      "isApp": true,
+      "file": "exports/discord.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "DISCORD",
+      "subtitle": "Discord",
+      "vectorLettering": {
+        "text": "DISCORD",
+        "sourceText": "DISCORD",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 107.1,
+        "width": 368.104,
+        "height": 94.248,
+        "format": "SVG paths",
+        "pathFile": "lettering/discord.svg"
+      }
+    },
+    {
+      "key": "chrome",
+      "title": "Google Chrome Браузер",
+      "category": "app",
+      "icon": "icons/chrome.png",
+      "index": 16,
+      "design": "typographic-icon",
+      "displayTitle": "Google Chrome",
+      "artKey": "chrome",
+      "isApp": true,
+      "file": "exports/chrome.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "CHROME",
+      "subtitle": "Google Chrome",
+      "vectorLettering": {
+        "text": "CHROME",
+        "sourceText": "CHROME",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 389.8828,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/chrome.svg"
+      }
+    },
+    {
+      "key": "ghub",
+      "title": "GHUB | Logitech",
+      "category": "app",
+      "icon": "icons/ghub.png",
+      "index": 17,
+      "design": "typographic-icon",
+      "displayTitle": "Logitech G HUB",
+      "artKey": "ghub",
+      "isApp": true,
+      "file": "exports/ghub.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "G HUB",
+      "subtitle": "Logitech G HUB",
+      "vectorLettering": {
+        "text": "G HUB",
+        "sourceText": "G HUB",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 302.7539,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/ghub.svg"
+      }
+    },
+    {
+      "key": "dragonfly",
+      "title": "Dragonfly F1",
+      "category": "app",
+      "icon": "icons/dragonfly.png",
+      "index": 18,
+      "design": "typographic-icon",
+      "displayTitle": "Dragonfly F1",
+      "artKey": "dragonfly",
+      "isApp": true,
+      "file": "exports/dragonfly.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "DRAGONFLY",
+      "subtitle": "Dragonfly F1",
+      "vectorLettering": {
+        "text": "DRAGONFLY",
+        "sourceText": "DRAGONFLY",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 83.3,
+        "width": 412.3513,
+        "height": 73.304,
+        "format": "SVG paths",
+        "pathFile": "lettering/dragonfly.svg"
+      }
+    },
+    {
+      "key": "nvidia",
+      "title": "Nvidia Control Panel",
+      "category": "app",
+      "icon": "icons/nvidia.svg",
+      "index": 19,
+      "design": "typographic-icon",
+      "displayTitle": "NVIDIA Control Panel",
+      "artKey": "nvidia",
+      "isApp": true,
+      "file": "exports/nvidia.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "NVIDIA",
+      "subtitle": "NVIDIA Control Panel",
+      "vectorLettering": {
+        "text": "NVIDIA",
+        "sourceText": "NVIDIA",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 329.707,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/nvidia.svg"
+      }
+    },
+    {
+      "key": "explorer",
+      "title": "Проводник",
+      "category": "app",
+      "icon": "icons/explorer.png",
+      "index": 20,
+      "design": "typographic-icon",
+      "displayTitle": "Проводник",
+      "artKey": "explorer",
+      "isApp": true,
+      "file": "exports/explorer.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "FILES",
+      "subtitle": "Проводник",
+      "vectorLettering": {
+        "text": "FILES",
+        "sourceText": "FILES",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 265.0195,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/explorer.svg"
+      }
+    },
+    {
+      "key": "task-manager",
+      "title": "Диспетчер Задач",
+      "category": "app",
+      "icon": "icons/task-manager.png",
+      "index": 21,
+      "design": "typographic-icon",
+      "displayTitle": "Диспетчер задач",
+      "artKey": "task-manager",
+      "isApp": true,
+      "file": "exports/task-manager.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "TASKS",
+      "subtitle": "Диспетчер задач",
+      "vectorLettering": {
+        "text": "TASKS",
+        "sourceText": "TASKS",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 304.3359,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/task-manager.svg"
+      }
+    },
+    {
+      "key": "teamspeak",
+      "title": "TeamSpeak 3",
+      "category": "app",
+      "icon": "icons/teamspeak.svg",
+      "index": 22,
+      "design": "typographic-icon",
+      "displayTitle": "TeamSpeak 3",
+      "artKey": "teamspeak",
+      "isApp": true,
+      "file": "exports/teamspeak.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "TEAMSPEAK",
+      "subtitle": "TeamSpeak 3",
+      "vectorLettering": {
+        "text": "TEAMSPEAK",
+        "sourceText": "TEAMSPEAK",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 83.3,
+        "width": 394.2107,
+        "height": 73.304,
+        "format": "SVG paths",
+        "pathFile": "lettering/teamspeak.svg"
+      }
+    },
+    {
+      "key": "obs",
+      "title": "OBS",
+      "category": "app",
+      "icon": "icons/obs.png",
+      "index": 23,
+      "design": "typographic-icon",
+      "displayTitle": "OBS",
+      "artKey": "obs",
+      "isApp": true,
+      "file": "exports/obs.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "OBS",
+      "subtitle": "OBS",
+      "vectorLettering": {
+        "text": "OBS",
+        "sourceText": "OBS",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 201.3281,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/obs.svg"
+      }
+    },
+    {
+      "key": "yandex-music",
+      "title": "Яндекс Музыка",
+      "category": "app",
+      "icon": "icons/yandex-music.svg",
+      "index": 24,
+      "design": "typographic-icon",
+      "displayTitle": "Яндекс Музыка",
+      "artKey": "yandex-music",
+      "isApp": true,
+      "file": "exports/yandex-music.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "MUSIC",
+      "subtitle": "Яндекс Музыка",
+      "vectorLettering": {
+        "text": "MUSIC",
+        "sourceText": "MUSIC",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 278.2031,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/yandex-music.svg"
+      }
+    },
+    {
+      "key": "yandex-browser",
+      "title": "Яндекс Браузер",
+      "category": "app",
+      "icon": "icons/yandex-browser.svg",
+      "index": 25,
+      "design": "typographic-icon",
+      "displayTitle": "Яндекс Браузер",
+      "artKey": "yandex-browser",
+      "isApp": true,
+      "file": "exports/yandex-browser.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "YANDEX",
+      "subtitle": "Яндекс Браузер",
+      "vectorLettering": {
+        "text": "YANDEX",
+        "sourceText": "YANDEX",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 399.1992,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/yandex-browser.svg"
+      }
+    },
+    {
+      "key": "zapret",
+      "title": "Zapret",
+      "category": "app",
+      "icon": "icons/zapret.svg",
+      "index": 26,
+      "design": "typographic-icon",
+      "displayTitle": "Zapret",
+      "artKey": "zapret",
+      "isApp": true,
+      "file": "exports/zapret.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "ZAPRET",
+      "subtitle": "Zapret",
+      "vectorLettering": {
+        "text": "ZAPRET",
+        "sourceText": "ZAPRET",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 360.293,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/zapret.svg"
+      }
+    },
+    {
+      "key": "volume",
+      "title": "Микшер громкости",
+      "category": "app",
+      "icon": "icons/volume.svg",
+      "index": 27,
+      "design": "typographic-icon",
+      "displayTitle": "Громкость",
+      "artKey": "volume",
+      "isApp": true,
+      "file": "exports/volume.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "SOUND",
+      "subtitle": "Громкость",
+      "vectorLettering": {
+        "text": "SOUND",
+        "sourceText": "SOUND",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 334.2773,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/volume.svg"
+      }
+    },
+    {
+      "key": "atk",
+      "title": "ATK HUB (мышь)",
+      "category": "app",
+      "icon": "icons/atk.png",
+      "index": 28,
+      "design": "typographic-icon",
+      "displayTitle": "ATK HUB",
+      "artKey": "atk",
+      "isApp": true,
+      "file": "exports/atk.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "ATK HUB",
+      "subtitle": "ATK HUB",
+      "vectorLettering": {
+        "text": "ATK HUB",
+        "sourceText": "ATK HUB",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 107.1,
+        "width": 374.4316,
+        "height": 94.248,
+        "format": "SVG paths",
+        "pathFile": "lettering/atk.svg"
+      }
+    },
+    {
+      "key": "snipping-tool",
+      "title": "Ножницы",
+      "category": "app",
+      "icon": "icons/snipping-tool.png",
+      "index": 29,
+      "design": "typographic-icon",
+      "displayTitle": "Ножницы",
+      "artKey": "snipping-tool",
+      "isApp": true,
+      "file": "exports/snipping-tool.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "CAPTURE",
+      "subtitle": "Ножницы",
+      "vectorLettering": {
+        "text": "CAPTURE",
+        "sourceText": "CAPTURE",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 107.1,
+        "width": 379.0336,
+        "height": 94.248,
+        "format": "SVG paths",
+        "pathFile": "lettering/snipping-tool.svg"
+      }
+    },
+    {
+      "key": "cs2",
+      "title": "CS 2",
+      "category": "game",
+      "icon": "crosshair",
+      "index": 30,
+      "design": "source-art",
+      "displayTitle": "Counter-Strike 2",
+      "artKey": "cs2",
+      "isApp": false,
+      "file": "exports/cs2.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "bottom",
+      "lettering": "COUNTER STRIKE 2",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "COUNTER STRIKE 2",
+        "sourceText": "COUNTER|STRIKE 2",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 93.8,
+        "width": 346.4829,
+        "height": 168.84,
+        "format": "SVG paths",
+        "pathFile": "lettering/cs2.svg"
+      }
+    },
+    {
+      "key": "genshin-impact",
+      "title": "Genshin Impact",
+      "category": "game",
+      "icon": "sparkles",
+      "index": 31,
+      "design": "source-art",
+      "displayTitle": "Genshin Impact",
+      "artKey": "genshin-impact",
+      "isApp": false,
+      "file": "exports/genshin-impact.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "GENSHIN",
+      "subtitle": "IMPACT",
+      "vectorLettering": {
+        "text": "GENSHIN",
+        "sourceText": "GENSHIN",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 506.8164,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/genshin-impact.svg"
+      }
+    },
+    {
+      "key": "arena-breakout",
+      "title": "Arena Breakout",
+      "category": "game",
+      "icon": "crosshair",
+      "index": 32,
+      "design": "source-art",
+      "displayTitle": "Arena Breakout",
+      "artKey": "arena-breakout",
+      "isApp": false,
+      "file": "exports/arena-breakout.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "bottom",
+      "lettering": "ARENA BREAKOUT",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "ARENA BREAKOUT",
+        "sourceText": "ARENA|BREAKOUT",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 93.8,
+        "width": 401.2606,
+        "height": 168.84,
+        "format": "SVG paths",
+        "pathFile": "lettering/arena-breakout.svg"
+      }
+    },
+    {
+      "key": "cs16",
+      "title": "Counter-Strike 1.6",
+      "category": "game",
+      "icon": "crosshair",
+      "index": 33,
+      "design": "source-art",
+      "displayTitle": "Counter-Strike 1·6",
+      "artKey": "cs16",
+      "isApp": false,
+      "file": "exports/cs16.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "bottom",
+      "lettering": "COUNTER STRIKE",
+      "subtitle": "1·6",
+      "vectorLettering": {
+        "text": "COUNTER STRIKE",
+        "sourceText": "COUNTER|STRIKE",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 107.1,
+        "width": 395.6111,
+        "height": 192.78,
+        "format": "SVG paths",
+        "pathFile": "lettering/cs16.svg"
+      }
+    },
+    {
+      "key": "minecraft",
+      "title": "Minecraft",
+      "category": "game",
+      "icon": "blocks",
+      "index": 34,
+      "design": "source-art",
+      "displayTitle": "Minecraft",
+      "artKey": "minecraft",
+      "isApp": false,
+      "file": "exports/minecraft.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "bottom",
+      "lettering": "MINECRAFT",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "MINECRAFT",
+        "sourceText": "MINECRAFT",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 83.3,
+        "width": 371.3114,
+        "height": 74.97,
+        "format": "SVG paths",
+        "pathFile": "lettering/minecraft.svg"
+      }
+    },
+    {
+      "key": "osu",
+      "title": "OSU!",
+      "category": "game",
+      "icon": "music-2",
+      "index": 35,
+      "design": "source-art",
+      "displayTitle": "osu!",
+      "artKey": "osu",
+      "isApp": false,
+      "file": "exports/osu.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "top",
+      "lettering": "OSU!",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "OSU!",
+        "sourceText": "OSU!",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 142,
+        "width": 265.7646,
+        "height": 142,
+        "format": "SVG paths",
+        "pathFile": "lettering/osu.svg"
+      }
+    },
+    {
+      "key": "honkai-star-rail",
+      "title": "Honkai: Star Rail",
+      "category": "game",
+      "icon": "orbit",
+      "index": 36,
+      "design": "source-art",
+      "displayTitle": "Honkai Star Rail",
+      "artKey": "honkai-star-rail",
+      "isApp": false,
+      "file": "exports/honkai-star-rail.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "STAR RAIL",
+      "subtitle": "HONKAI",
+      "vectorLettering": {
+        "text": "STAR RAIL",
+        "sourceText": "STAR RAIL",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 126.3,
+        "width": 521.0492,
+        "height": 126.3,
+        "format": "SVG paths",
+        "pathFile": "lettering/honkai-star-rail.svg"
+      }
+    },
+    {
+      "key": "marathon",
+      "title": "Marathon",
+      "category": "game",
+      "icon": "crosshair",
+      "index": 37,
+      "design": "source-art",
+      "displayTitle": "Marathon",
+      "artKey": "marathon",
+      "isApp": false,
+      "file": "exports/marathon.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "MARATHON",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "MARATHON",
+        "sourceText": "MARATHON",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 629.1797,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/marathon.svg"
+      }
+    },
+    {
+      "key": "repo",
+      "title": "REPO",
+      "category": "game",
+      "icon": "box",
+      "index": 38,
+      "design": "source-art",
+      "displayTitle": "REPO",
+      "artKey": "repo",
+      "isApp": false,
+      "file": "exports/repo.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "top",
+      "lettering": "REPO",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "REPO",
+        "sourceText": "REPO",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 142,
+        "width": 298.8379,
+        "height": 142,
+        "format": "SVG paths",
+        "pathFile": "lettering/repo.svg"
+      }
+    },
+    {
+      "key": "deadlock",
+      "title": "deadlock",
+      "category": "game",
+      "icon": "crosshair",
+      "index": 39,
+      "design": "source-art",
+      "displayTitle": "Deadlock",
+      "artKey": "deadlock",
+      "isApp": false,
+      "file": "exports/deadlock.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "DEADLOCK",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "DEADLOCK",
+        "sourceText": "DEADLOCK",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 611.748,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/deadlock.svg"
+      }
+    },
+    {
+      "key": "valorant",
+      "title": "VALORANT",
+      "category": "game",
+      "icon": "crosshair",
+      "index": 40,
+      "design": "source-art",
+      "displayTitle": "VALORANT",
+      "artKey": "valorant",
+      "isApp": false,
+      "file": "exports/valorant.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "VALORANT",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "VALORANT",
+        "sourceText": "VALORANT",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 613.252,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/valorant.svg"
+      }
+    },
+    {
+      "key": "league-of-legends",
+      "title": "League of Legends",
+      "category": "game",
+      "icon": "swords",
+      "index": 41,
+      "design": "source-art",
+      "displayTitle": "League of Legends",
+      "artKey": "league-of-legends",
+      "isApp": false,
+      "file": "exports/league-of-legends.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "bottom",
+      "lettering": "LEAGUE OF LEGENDS",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "LEAGUE OF LEGENDS",
+        "sourceText": "LEAGUE OF|LEGENDS",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 83.3,
+        "width": 381.3985,
+        "height": 149.94,
+        "format": "SVG paths",
+        "pathFile": "lettering/league-of-legends.svg"
+      }
+    },
+    {
+      "key": "pubg",
+      "title": "PUBG: BATTLEGROUNDS",
+      "category": "game",
+      "icon": "crosshair",
+      "index": 42,
+      "design": "source-art",
+      "displayTitle": "PUBG: BATTLEGROUNDS",
+      "artKey": "pubg",
+      "isApp": false,
+      "file": "exports/pubg.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "top",
+      "lettering": "PUBG",
+      "subtitle": "BATTLEGROUNDS",
+      "vectorLettering": {
+        "text": "PUBG",
+        "sourceText": "PUBG",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 142,
+        "width": 311.3184,
+        "height": 142,
+        "format": "SVG paths",
+        "pathFile": "lettering/pubg.svg"
+      }
+    },
+    {
+      "key": "escape-from-tarkov",
+      "title": "Escape from Tarkov",
+      "category": "game",
+      "icon": "crosshair",
+      "index": 43,
+      "design": "source-art",
+      "displayTitle": "Escape from Tarkov",
+      "artKey": "escape-from-tarkov",
+      "isApp": false,
+      "file": "exports/escape-from-tarkov.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "TARKOV",
+      "subtitle": "ESCAPE FROM",
+      "vectorLettering": {
+        "text": "TARKOV",
+        "sourceText": "TARKOV",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 446.3184,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/escape-from-tarkov.svg"
+      }
+    },
+    {
+      "key": "fortnite",
+      "title": "Fortnite",
+      "category": "game",
+      "icon": "crosshair",
+      "index": 44,
+      "design": "source-art",
+      "displayTitle": "Fortnite",
+      "artKey": "fortnite",
+      "isApp": false,
+      "file": "exports/fortnite.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "FORTNITE",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "FORTNITE",
+        "sourceText": "FORTNITE",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 537.4414,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/fortnite.svg"
+      }
+    },
+    {
+      "key": "phasmophobia",
+      "title": "Phasmophobia",
+      "category": "game",
+      "icon": "ghost",
+      "index": 45,
+      "design": "source-art",
+      "displayTitle": "Phasmophobia",
+      "artKey": "phasmophobia",
+      "isApp": false,
+      "file": "exports/phasmophobia.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "bottom",
+      "lettering": "PHASMO PHOBIA",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "PHASMO PHOBIA",
+        "sourceText": "PHASMO|PHOBIA",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 397.7344,
+        "height": 216.0,
+        "format": "SVG paths",
+        "pathFile": "lettering/phasmophobia.svg"
+      }
+    },
+    {
+      "key": "dead-by-daylight",
+      "title": "DeadByDaylight",
+      "category": "game",
+      "icon": "ghost",
+      "index": 46,
+      "design": "source-art",
+      "displayTitle": "Dead by Daylight",
+      "artKey": "dead-by-daylight",
+      "isApp": false,
+      "file": "exports/dead-by-daylight.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "bottom",
+      "lettering": "DEAD BY DAYLIGHT",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "DEAD BY DAYLIGHT",
+        "sourceText": "DEAD BY|DAYLIGHT",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 93.8,
+        "width": 373.139,
+        "height": 168.84,
+        "format": "SVG paths",
+        "pathFile": "lettering/dead-by-daylight.svg"
+      }
+    },
+    {
+      "key": "call-of-duty",
+      "title": "Call of Duty",
+      "category": "game",
+      "icon": "crosshair",
+      "index": 47,
+      "design": "source-art",
+      "displayTitle": "Call of Duty",
+      "artKey": "call-of-duty",
+      "isApp": false,
+      "file": "exports/call-of-duty.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "bottom",
+      "lettering": "CALL OF DUTY",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "CALL OF DUTY",
+        "sourceText": "CALL OF|DUTY",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 107.1,
+        "width": 373.0197,
+        "height": 192.78,
+        "format": "SVG paths",
+        "pathFile": "lettering/call-of-duty.svg"
+      }
+    },
+    {
+      "key": "world-of-warcraft",
+      "title": "World of Warcraft",
+      "category": "game",
+      "icon": "swords",
+      "index": 48,
+      "design": "source-art",
+      "displayTitle": "World of Warcraft",
+      "artKey": "world-of-warcraft",
+      "isApp": false,
+      "file": "exports/world-of-warcraft.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "WARCRAFT",
+      "subtitle": "WORLD OF",
+      "vectorLettering": {
+        "text": "WARCRAFT",
+        "sourceText": "WARCRAFT",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 593.5645,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/world-of-warcraft.svg"
+      }
+    },
+    {
+      "key": "majestic-rp",
+      "title": "Magestik RP",
+      "category": "game",
+      "icon": "car",
+      "index": 49,
+      "design": "source-art",
+      "displayTitle": "Majestic RP",
+      "artKey": "majestic-rp",
+      "isApp": false,
+      "file": "exports/majestic-rp.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "MAJESTIC",
+      "subtitle": "ROLEPLAY",
+      "vectorLettering": {
+        "text": "MAJESTIC",
+        "sourceText": "MAJESTIC",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 532.5195,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/majestic-rp.svg"
+      }
+    },
+    {
+      "key": "doom-eternal",
+      "title": "Doom Eternal",
+      "category": "game",
+      "icon": "crosshair",
+      "index": 50,
+      "design": "source-art",
+      "displayTitle": "Doom Eternal",
+      "artKey": "doom-eternal",
+      "isApp": false,
+      "file": "exports/doom-eternal.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "top",
+      "lettering": "DOOM",
+      "subtitle": "ETERNAL",
+      "vectorLettering": {
+        "text": "DOOM",
+        "sourceText": "DOOM",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 142,
+        "width": 336.4873,
+        "height": 142,
+        "format": "SVG paths",
+        "pathFile": "lettering/doom-eternal.svg"
+      }
+    },
+    {
+      "key": "frostpunk2",
+      "title": "Frostpunk 2",
+      "category": "game",
+      "icon": "snowflake",
+      "index": 51,
+      "design": "source-art",
+      "displayTitle": "Frostpunk 2",
+      "artKey": "frostpunk2",
+      "isApp": false,
+      "file": "exports/frostpunk2.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "FROSTPUNK",
+      "subtitle": "2",
+      "vectorLettering": {
+        "text": "FROSTPUNK",
+        "sourceText": "FROSTPUNK",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 126.3,
+        "width": 591.0445,
+        "height": 126.3,
+        "format": "SVG paths",
+        "pathFile": "lettering/frostpunk2.svg"
+      }
+    },
+    {
+      "key": "cyberpunk2077",
+      "title": "Cyberpunk 2077",
+      "category": "game",
+      "icon": "cpu",
+      "index": 52,
+      "design": "source-art",
+      "displayTitle": "Cyberpunk 2077",
+      "artKey": "cyberpunk2077",
+      "isApp": false,
+      "file": "exports/cyberpunk2077.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "CYBERPUNK",
+      "subtitle": "2077",
+      "vectorLettering": {
+        "text": "CYBERPUNK",
+        "sourceText": "CYBERPUNK",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 126.3,
+        "width": 598.5683,
+        "height": 126.3,
+        "format": "SVG paths",
+        "pathFile": "lettering/cyberpunk2077.svg"
+      }
+    },
+    {
+      "key": "witcher3",
+      "title": "Ведьмак 3: Дикая Охота",
+      "category": "game",
+      "icon": "swords",
+      "index": 53,
+      "design": "source-art",
+      "displayTitle": "Ведьмак 3",
+      "artKey": "witcher3",
+      "isApp": false,
+      "file": "exports/witcher3.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "WITCHER",
+      "subtitle": "THE WITCHER 3",
+      "vectorLettering": {
+        "text": "WITCHER",
+        "sourceText": "WITCHER",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 474.0039,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/witcher3.svg"
+      }
+    },
+    {
+      "key": "assassins-valhalla",
+      "title": "Assassins Creed: Valhalla",
+      "category": "game",
+      "icon": "swords",
+      "index": 54,
+      "design": "source-art",
+      "displayTitle": "Assassin’s Creed Valhalla",
+      "artKey": "assassins-valhalla",
+      "isApp": false,
+      "file": "exports/assassins-valhalla.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "VALHALLA",
+      "subtitle": "ASSASSIN’S CREED",
+      "vectorLettering": {
+        "text": "VALHALLA",
+        "sourceText": "VALHALLA",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 611.8848,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/assassins-valhalla.svg"
+      }
+    },
+    {
+      "key": "roblox",
+      "title": "Roblox",
+      "category": "game",
+      "icon": "blocks",
+      "index": 55,
+      "design": "source-art",
+      "displayTitle": "Roblox",
+      "artKey": "roblox",
+      "isApp": false,
+      "file": "exports/roblox.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "top",
+      "lettering": "ROBLOX",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "ROBLOX",
+        "sourceText": "ROBLOX",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 125.0,
+        "width": 424.0723,
+        "height": 125.0,
+        "format": "SVG paths",
+        "pathFile": "lettering/roblox.svg"
+      }
+    },
+    {
+      "key": "heroes3",
+      "title": "Heroes of Might and Magic III",
+      "category": "classic",
+      "icon": "castle",
+      "index": 56,
+      "design": "source-art",
+      "displayTitle": "Heroes of Might and Magic III",
+      "artKey": "heroes3",
+      "isApp": false,
+      "file": "exports/heroes3.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "HEROES III",
+      "subtitle": "MIGHT AND MAGIC",
+      "vectorLettering": {
+        "text": "HEROES III",
+        "sourceText": "HEROES III",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 113.6,
+        "width": 468.3781,
+        "height": 113.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/heroes3.svg"
+      }
+    },
+    {
+      "key": "heroes5",
+      "title": "Heroes of Might and Magic V",
+      "category": "classic",
+      "icon": "castle",
+      "index": 57,
+      "design": "source-art",
+      "displayTitle": "Heroes of Might and Magic V",
+      "artKey": "heroes5",
+      "isApp": false,
+      "file": "exports/heroes5.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "HEROES V",
+      "subtitle": "MIGHT AND MAGIC",
+      "vectorLettering": {
+        "text": "HEROES V",
+        "sourceText": "HEROES V",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 549.7461,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/heroes5.svg"
+      }
+    },
+    {
+      "key": "nfs-most-wanted",
+      "title": "Need for Speed: Most Wanted",
+      "category": "classic",
+      "icon": "car",
+      "index": 58,
+      "design": "source-art",
+      "displayTitle": "Need for Speed: Most Wanted",
+      "artKey": "nfs-most-wanted",
+      "isApp": false,
+      "file": "exports/nfs-most-wanted.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "bottom",
+      "lettering": "MOST WANTED",
+      "subtitle": "NEED FOR SPEED",
+      "vectorLettering": {
+        "text": "MOST WANTED",
+        "sourceText": "MOST|WANTED",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 405.0586,
+        "height": 216.0,
+        "format": "SVG paths",
+        "pathFile": "lettering/nfs-most-wanted.svg"
+      }
+    },
+    {
+      "key": "sims4",
+      "title": "The Sims 4",
+      "category": "classic",
+      "icon": "house",
+      "index": 59,
+      "design": "source-art",
+      "displayTitle": "The Sims 4",
+      "artKey": "sims4",
+      "isApp": false,
+      "file": "exports/sims4.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "SIMS 4",
+      "subtitle": "THE SIMS",
+      "vectorLettering": {
+        "text": "SIMS 4",
+        "sourceText": "SIMS 4",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 370.0293,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/sims4.svg"
+      }
+    },
+    {
+      "key": "mafia2",
+      "title": "Mafia II. Definitive Edition",
+      "category": "classic",
+      "icon": "car",
+      "index": 60,
+      "design": "source-art",
+      "displayTitle": "Mafia II",
+      "artKey": "mafia2",
+      "isApp": false,
+      "file": "exports/mafia2.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "MAFIA II",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "MAFIA II",
+        "sourceText": "MAFIA II",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 450.4883,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/mafia2.svg"
+      }
+    },
+    {
+      "key": "oblivion-remastered",
+      "title": "The Elder Scrolls IV: Oblivion Remastered",
+      "category": "classic",
+      "icon": "swords",
+      "index": 61,
+      "design": "source-art",
+      "displayTitle": "Oblivion Remastered",
+      "artKey": "oblivion-remastered",
+      "isApp": false,
+      "file": "exports/oblivion-remastered.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "OBLIVION",
+      "subtitle": "REMASTERED",
+      "vectorLettering": {
+        "text": "OBLIVION",
+        "sourceText": "OBLIVION",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 550.1562,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/oblivion-remastered.svg"
+      }
+    },
+    {
+      "key": "skyrim",
+      "title": "The Elder Scrolls V: Skyrim",
+      "category": "classic",
+      "icon": "swords",
+      "index": 62,
+      "design": "source-art",
+      "displayTitle": "Skyrim",
+      "artKey": "skyrim",
+      "isApp": false,
+      "file": "exports/skyrim.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "SKYRIM",
+      "subtitle": "THE ELDER SCROLLS V",
+      "vectorLettering": {
+        "text": "SKYRIM",
+        "sourceText": "SKYRIM",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 395.7324,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/skyrim.svg"
+      }
+    },
+    {
+      "key": "dead-space2023",
+      "title": "Dead Space 2023",
+      "category": "classic",
+      "icon": "orbit",
+      "index": 63,
+      "design": "source-art",
+      "displayTitle": "Dead Space 2023",
+      "artKey": "dead-space2023",
+      "isApp": false,
+      "file": "exports/dead-space2023.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "bottom",
+      "lettering": "DEAD SPACE",
+      "subtitle": "2023",
+      "vectorLettering": {
+        "text": "DEAD SPACE",
+        "sourceText": "DEAD|SPACE",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 307.8516,
+        "height": 216.0,
+        "format": "SVG paths",
+        "pathFile": "lettering/dead-space2023.svg"
+      }
+    },
+    {
+      "key": "far-cry5",
+      "title": "Far Cry 5",
+      "category": "classic",
+      "icon": "crosshair",
+      "index": 64,
+      "design": "source-art",
+      "displayTitle": "Far Cry 5",
+      "artKey": "far-cry5",
+      "isApp": false,
+      "file": "exports/far-cry5.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "FAR CRY 5",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "FAR CRY 5",
+        "sourceText": "FAR CRY 5",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 126.3,
+        "width": 510.3186,
+        "height": 126.3,
+        "format": "SVG paths",
+        "pathFile": "lettering/far-cry5.svg"
+      }
+    },
+    {
+      "key": "watch-dogs2",
+      "title": "Watch Dogs 2",
+      "category": "classic",
+      "icon": "terminal",
+      "index": 65,
+      "design": "source-art",
+      "displayTitle": "Watch Dogs 2",
+      "artKey": "watch-dogs2",
+      "isApp": false,
+      "file": "exports/watch-dogs2.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "bottom",
+      "lettering": "WATCH DOGS 2",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "WATCH DOGS 2",
+        "sourceText": "WATCH|DOGS 2",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 360.5273,
+        "height": 216.0,
+        "format": "SVG paths",
+        "pathFile": "lettering/watch-dogs2.svg"
+      }
+    },
+    {
+      "key": "fallout4",
+      "title": "Fallout 4",
+      "category": "classic",
+      "icon": "radiation",
+      "index": 66,
+      "design": "source-art",
+      "displayTitle": "Fallout 4",
+      "artKey": "fallout4",
+      "isApp": false,
+      "file": "exports/fallout4.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "FALLOUT 4",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "FALLOUT 4",
+        "sourceText": "FALLOUT 4",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 126.3,
+        "width": 570.5701,
+        "height": 126.3,
+        "format": "SVG paths",
+        "pathFile": "lettering/fallout4.svg"
+      }
+    },
+    {
+      "key": "batman-arkham-city",
+      "title": "Batman: Arkham City",
+      "category": "classic",
+      "icon": "moon",
+      "index": 67,
+      "design": "source-art",
+      "displayTitle": "Batman: Arkham City",
+      "artKey": "batman-arkham-city",
+      "isApp": false,
+      "file": "exports/batman-arkham-city.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Canonical source-cover adaptation; not a generated character",
+      "composition": "bottom",
+      "lettering": "ARKHAM CITY",
+      "subtitle": "BATMAN",
+      "vectorLettering": {
+        "text": "ARKHAM CITY",
+        "sourceText": "ARKHAM|CITY",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 401.6602,
+        "height": 216.0,
+        "format": "SVG paths",
+        "pathFile": "lettering/batman-arkham-city.svg"
+      }
+    },
+    {
+      "key": "return-to-castle-wolfenstein",
+      "title": "Real Return to Castle Wolfenstein",
+      "category": "classic",
+      "icon": "castle",
+      "index": 68,
+      "design": "typographic-icon",
+      "displayTitle": "Return to Castle Wolfenstein",
+      "artKey": "return-to-castle-wolfenstein",
+      "isApp": false,
+      "file": "exports/return-to-castle-wolfenstein.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "bottom",
+      "lettering": "WOLFEN STEIN",
+      "subtitle": "RETURN TO CASTLE",
+      "vectorLettering": {
+        "text": "WOLFEN STEIN",
+        "sourceText": "WOLFEN|STEIN",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 406.1133,
+        "height": 216.0,
+        "format": "SVG paths",
+        "pathFile": "lettering/return-to-castle-wolfenstein.svg"
+      }
+    },
+    {
+      "key": "metro2033",
+      "title": "Metro 2033",
+      "category": "classic",
+      "icon": "train-front",
+      "index": 69,
+      "design": "source-art",
+      "displayTitle": "Metro 2033",
+      "artKey": "metro2033",
+      "isApp": false,
+      "file": "exports/metro2033.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "METRO",
+      "subtitle": "2033",
+      "vectorLettering": {
+        "text": "METRO",
+        "sourceText": "METRO",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 370.8496,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/metro2033.svg"
+      }
+    },
+    {
+      "key": "arc-raiders",
+      "title": "Arc Raiders",
+      "category": "account",
+      "icon": "crosshair",
+      "index": 70,
+      "design": "source-art",
+      "displayTitle": "Arc Raiders",
+      "artKey": "arc-raiders",
+      "isApp": false,
+      "file": "exports/arc-raiders.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "bottom",
+      "lettering": "ARC RAIDERS",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "ARC RAIDERS",
+        "sourceText": "ARC|RAIDERS",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 107.1,
+        "width": 359.1615,
+        "height": 192.78,
+        "format": "SVG paths",
+        "pathFile": "lettering/arc-raiders.svg"
+      }
+    },
+    {
+      "key": "marathon-club",
+      "title": "Marathon",
+      "category": "account",
+      "icon": "crosshair",
+      "index": 71,
+      "design": "source-art",
+      "displayTitle": "Marathon",
+      "artKey": "marathon",
+      "isApp": false,
+      "file": "exports/marathon-club.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "MARATHON",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "MARATHON",
+        "sourceText": "MARATHON",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 629.1797,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/marathon-club.svg"
+      }
+    },
+    {
+      "key": "cs2-prime",
+      "title": "CS 2 Prime",
+      "category": "account",
+      "icon": "crosshair",
+      "index": 72,
+      "design": "source-art",
+      "displayTitle": "CS 2 PRIME",
+      "artKey": "cs2",
+      "isApp": false,
+      "file": "exports/cs2-prime.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "bottom",
+      "lettering": "COUNTER STRIKE 2",
+      "subtitle": "PRIME",
+      "vectorLettering": {
+        "text": "COUNTER STRIKE 2",
+        "sourceText": "COUNTER|STRIKE 2",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 93.8,
+        "width": 346.4829,
+        "height": 168.84,
+        "format": "SVG paths",
+        "pathFile": "lettering/cs2-prime.svg"
+      }
+    },
+    {
+      "key": "cs2-free",
+      "title": "CS 2 FREE",
+      "category": "account",
+      "icon": "crosshair",
+      "index": 73,
+      "design": "source-art",
+      "displayTitle": "CS 2 FREE",
+      "artKey": "cs2",
+      "isApp": false,
+      "file": "exports/cs2-free.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "bottom",
+      "lettering": "COUNTER STRIKE 2",
+      "subtitle": "FREE",
+      "vectorLettering": {
+        "text": "COUNTER STRIKE 2",
+        "sourceText": "COUNTER|STRIKE 2",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 93.8,
+        "width": 346.4829,
+        "height": 168.84,
+        "format": "SVG paths",
+        "pathFile": "lettering/cs2-free.svg"
+      }
+    },
+    {
+      "key": "warface",
+      "title": "Warface",
+      "category": "game",
+      "icon": "crosshair",
+      "index": 74,
+      "design": "source-art",
+      "displayTitle": "Warface",
+      "artKey": "warface",
+      "isApp": false,
+      "file": "exports/warface.png",
+      "placements": [
+        "Игры"
+      ],
+      "artStatus": "Garment-led reinterpretation of a recognizable canonical game character",
+      "composition": "vertical",
+      "lettering": "WARFACE",
+      "subtitle": "",
+      "vectorLettering": {
+        "text": "WARFACE",
+        "sourceText": "WARFACE",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 140,
+        "width": 531.5625,
+        "height": 140,
+        "format": "SVG paths",
+        "pathFile": "lettering/warface.svg"
+      }
+    },
+    {
+      "key": "razer",
+      "title": "Razer",
+      "category": "app",
+      "icon": "icons/razer.svg",
+      "index": 75,
+      "design": "typographic-icon",
+      "displayTitle": "Razer",
+      "artKey": "razer",
+      "isApp": true,
+      "file": "exports/razer.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "RAZER",
+      "subtitle": "Razer",
+      "vectorLettering": {
+        "text": "RAZER",
+        "sourceText": "RAZER",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 306.4453,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/razer.svg"
+      }
+    },
+    {
+      "key": "valorant-tracker",
+      "title": "Valorant Tracker",
+      "category": "app",
+      "icon": "icons/valorant-tracker.png",
+      "index": 76,
+      "design": "typographic-icon",
+      "displayTitle": "Valorant Tracker",
+      "artKey": "valorant-tracker",
+      "isApp": true,
+      "file": "exports/valorant-tracker.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "TRACKER",
+      "subtitle": "Valorant Tracker",
+      "vectorLettering": {
+        "text": "TRACKER",
+        "sourceText": "TRACKER",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 107.1,
+        "width": 382.0667,
+        "height": 94.248,
+        "format": "SVG paths",
+        "pathFile": "lettering/valorant-tracker.svg"
+      }
+    },
+    {
+      "key": "lamzu",
+      "title": "Lamzu Aurora",
+      "category": "app",
+      "icon": "icons/lamzu.png",
+      "index": 77,
+      "design": "typographic-icon",
+      "displayTitle": "Lamzu Aurora",
+      "artKey": "lamzu",
+      "isApp": true,
+      "file": "exports/lamzu.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "LAMZU",
+      "subtitle": "Lamzu Aurora",
+      "vectorLettering": {
+        "text": "LAMZU",
+        "sourceText": "LAMZU",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 321.6211,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/lamzu.svg"
+      }
+    },
+    {
+      "key": "vhub-atk",
+      "title": "VHUB | ATK",
+      "category": "app",
+      "icon": "icons/vhub-atk.png",
+      "index": 78,
+      "design": "typographic-icon",
+      "displayTitle": "VHUB | ATK",
+      "artKey": "vhub-atk",
+      "isApp": true,
+      "file": "exports/vhub-atk.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "VHUB",
+      "subtitle": "VHUB | ATK",
+      "vectorLettering": {
+        "text": "VHUB",
+        "sourceText": "VHUB",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 258.3984,
+        "height": 105.6,
+        "format": "SVG paths",
+        "pathFile": "lettering/vhub-atk.svg"
+      }
+    },
+    {
+      "key": "zone51",
+      "title": "Zone51 Sage Pro",
+      "category": "app",
+      "icon": "icons/zone51.svg",
+      "index": 79,
+      "design": "typographic-icon",
+      "displayTitle": "Zone51 Sage Pro",
+      "artKey": "zone51",
+      "isApp": true,
+      "file": "exports/zone51.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "ZONE 51",
+      "subtitle": "Zone51 Sage Pro",
+      "vectorLettering": {
+        "text": "ZONE 51",
+        "sourceText": "ZONE 51",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 107.1,
+        "width": 339.2895,
+        "height": 94.248,
+        "format": "SVG paths",
+        "pathFile": "lettering/zone51.svg"
+      }
+    },
+    {
+      "key": "battlestate",
+      "title": "Battlestate Games Launcher",
+      "category": "launcher",
+      "icon": "icons/battlestate.png",
+      "index": 80,
+      "design": "typographic-icon",
+      "displayTitle": "Battlestate Games",
+      "artKey": "battlestate",
+      "isApp": true,
+      "file": "exports/battlestate.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "BATTLESTATE",
+      "subtitle": "Battlestate Games",
+      "vectorLettering": {
+        "text": "BATTLESTATE",
+        "sourceText": "BATTLESTATE",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 68.2,
+        "width": 378.9629,
+        "height": 60.016,
+        "format": "SVG paths",
+        "pathFile": "lettering/battlestate.svg"
+      }
+    },
+    {
+      "key": "attack-shark",
+      "title": "attack shark",
+      "category": "app",
+      "icon": "icons/attack-shark.png",
+      "index": 81,
+      "design": "typographic-icon",
+      "displayTitle": "Attack Shark",
+      "artKey": "attack-shark",
+      "isApp": true,
+      "file": "exports/attack-shark.png",
+      "placements": [
+        "Игры",
+        "Программы"
+      ],
+      "artStatus": "Canonical app icon with DOJO lettering and brush graphic",
+      "composition": "app",
+      "lettering": "ATTACK SHARK",
+      "subtitle": "Attack Shark",
+      "vectorLettering": {
+        "text": "ATTACK SHARK",
+        "sourceText": "ATTACK|SHARK",
+        "sourceFont": "Edo SZ",
+        "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+        "fontSize": 120,
+        "width": 372.9492,
+        "height": 211.2,
+        "format": "SVG paths",
+        "pathFile": "lettering/attack-shark.svg"
+      }
+    }
+  ],
+  "mapping": [
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Лаунчеры",
+      "crm_title": "Steam",
+      "cover_key": "steam"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Лаунчеры",
+      "crm_title": "Battle.net",
+      "cover_key": "battle-net"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Лаунчеры",
+      "crm_title": "Epic Games Launcher",
+      "cover_key": "epic-games"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Лаунчеры",
+      "crm_title": "ICCup",
+      "cover_key": "iccup"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Лаунчеры",
+      "crm_title": "Riot Client",
+      "cover_key": "riot-client"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Лаунчеры",
+      "crm_title": "VK Play GameCenter",
+      "cover_key": "vk-play"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Лаунчеры",
+      "crm_title": "Lesta",
+      "cover_key": "lesta"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Лаунчеры",
+      "crm_title": "HoYoPlay",
+      "cover_key": "hoyoplay"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Лаунчеры",
+      "crm_title": "Ubisoft launcher",
+      "cover_key": "ubisoft"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Лаунчеры",
+      "crm_title": "EA Launcher",
+      "cover_key": "ea"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "RentalGames - аренда игровых аккаунтов",
+      "cover_key": "rentalgames"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "Curse Forge",
+      "cover_key": "curseforge"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "FACEIT AC",
+      "cover_key": "faceit-ac"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "FACEIT",
+      "cover_key": "faceit"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "Discord",
+      "cover_key": "discord"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "Google Chrome Браузер",
+      "cover_key": "chrome"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "GHUB | Logitech",
+      "cover_key": "ghub"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "Dragonfly F1",
+      "cover_key": "dragonfly"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "Nvidia Control Panel",
+      "cover_key": "nvidia"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "Проводник",
+      "cover_key": "explorer"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "Диспетчер Задач",
+      "cover_key": "task-manager"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "TeamSpeak 3",
+      "cover_key": "teamspeak"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "OBS",
+      "cover_key": "obs"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "Яндекс Музыка",
+      "cover_key": "yandex-music"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "Яндекс Браузер",
+      "cover_key": "yandex-browser"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "Zapret",
+      "cover_key": "zapret"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "Микшер громкости",
+      "cover_key": "volume"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "ATK HUB (мышь)",
+      "cover_key": "atk"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Приложения и сервисы",
+      "crm_title": "Ножницы",
+      "cover_key": "snipping-tool"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "CS 2",
+      "cover_key": "cs2"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Genshin Impact",
+      "cover_key": "genshin-impact"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Arena Breakout",
+      "cover_key": "arena-breakout"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Counter-Strike 1.6",
+      "cover_key": "cs16"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Minecraft",
+      "cover_key": "minecraft"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "OSU!",
+      "cover_key": "osu"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Honkai: Star Rail",
+      "cover_key": "honkai-star-rail"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Marathon",
+      "cover_key": "marathon"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "REPO",
+      "cover_key": "repo"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "deadlock",
+      "cover_key": "deadlock"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "VALORANT",
+      "cover_key": "valorant"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "League of Legends",
+      "cover_key": "league-of-legends"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "PUBG: BATTLEGROUNDS",
+      "cover_key": "pubg"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Escape from Tarkov",
+      "cover_key": "escape-from-tarkov"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Fortnite",
+      "cover_key": "fortnite"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Phasmophobia",
+      "cover_key": "phasmophobia"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "DeadByDaylight",
+      "cover_key": "dead-by-daylight"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Call of Duty",
+      "cover_key": "call-of-duty"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "World of Warcraft",
+      "cover_key": "world-of-warcraft"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Magestik RP",
+      "cover_key": "majestic-rp"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Doom Eternal",
+      "cover_key": "doom-eternal"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Frostpunk 2",
+      "cover_key": "frostpunk2"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Cyberpunk 2077",
+      "cover_key": "cyberpunk2077"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Ведьмак 3: Дикая Охота",
+      "cover_key": "witcher3"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Assassins Creed: Valhalla",
+      "cover_key": "assassins-valhalla"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Игры",
+      "crm_title": "Roblox",
+      "cover_key": "roblox"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Олдскул и классика",
+      "crm_title": "Heroes of Might and Magic III",
+      "cover_key": "heroes3"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Олдскул и классика",
+      "crm_title": "Heroes of Might and Magic V",
+      "cover_key": "heroes5"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Олдскул и классика",
+      "crm_title": "Need for Speed: Most Wanted",
+      "cover_key": "nfs-most-wanted"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Олдскул и классика",
+      "crm_title": "The Sims 4",
+      "cover_key": "sims4"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Олдскул и классика",
+      "crm_title": "Mafia II. Definitive Edition",
+      "cover_key": "mafia2"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Олдскул и классика",
+      "crm_title": "The Elder Scrolls IV: Oblivion Remastered",
+      "cover_key": "oblivion-remastered"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Олдскул и классика",
+      "crm_title": "The Elder Scrolls V: Skyrim",
+      "cover_key": "skyrim"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Олдскул и классика",
+      "crm_title": "Dead Space 2023",
+      "cover_key": "dead-space2023"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Олдскул и классика",
+      "crm_title": "Far Cry 5",
+      "cover_key": "far-cry5"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Олдскул и классика",
+      "crm_title": "Watch Dogs 2",
+      "cover_key": "watch-dogs2"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Олдскул и классика",
+      "crm_title": "Fallout 4",
+      "cover_key": "fallout4"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Олдскул и классика",
+      "crm_title": "Batman: Arkham City",
+      "cover_key": "batman-arkham-city"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Олдскул и классика",
+      "crm_title": "Real Return to Castle Wolfenstein",
+      "cover_key": "return-to-castle-wolfenstein"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Олдскул и классика",
+      "crm_title": "Metro 2033",
+      "cover_key": "metro2033"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Клубные аккаунты",
+      "crm_title": "Arc Raiders",
+      "cover_key": "arc-raiders"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Клубные аккаунты",
+      "crm_title": "Marathon",
+      "cover_key": "marathon-club"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Клубные аккаунты",
+      "crm_title": "CS 2 Prime",
+      "cover_key": "cs2-prime"
+    },
+    {
+      "club_id": 7043,
+      "club": "DOJO",
+      "category": "Клубные аккаунты",
+      "crm_title": "CS 2 FREE",
+      "cover_key": "cs2-free"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Игры",
+      "crm_title": "ICCUP",
+      "cover_key": "iccup"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Игры",
+      "crm_title": "Arena Breakout Infinite",
+      "cover_key": "arena-breakout"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Игры",
+      "crm_title": "Counter-Strike 1.6",
+      "cover_key": "cs16"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Игры",
+      "crm_title": "Minecraft (Tlauncher)",
+      "cover_key": "minecraft"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Игры",
+      "crm_title": "osu!",
+      "cover_key": "osu"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Игры",
+      "crm_title": "Warface",
+      "cover_key": "warface"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Игры",
+      "crm_title": "Roblox",
+      "cover_key": "roblox"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Приложения",
+      "crm_title": "Razer",
+      "cover_key": "razer"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Приложения",
+      "crm_title": "Valorant Tracker",
+      "cover_key": "valorant-tracker"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Приложения",
+      "crm_title": "Lamzu Aurora",
+      "cover_key": "lamzu"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Приложения",
+      "crm_title": "Faceit AC",
+      "cover_key": "faceit-ac"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Приложения",
+      "crm_title": "VHUB | ATK",
+      "cover_key": "vhub-atk"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Приложения",
+      "crm_title": "Google Chrome",
+      "cover_key": "chrome"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Приложения",
+      "crm_title": "Discord",
+      "cover_key": "discord"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Приложения",
+      "crm_title": "GHub",
+      "cover_key": "ghub"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Приложения",
+      "crm_title": "Проводник",
+      "cover_key": "explorer"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Приложения",
+      "crm_title": "RentalGames",
+      "cover_key": "rentalgames"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Приложения",
+      "crm_title": "Диспетчер задач",
+      "cover_key": "task-manager"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Приложения",
+      "crm_title": "NVIDIA Control Panel",
+      "cover_key": "nvidia"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Приложения",
+      "crm_title": "Zone51 Sage Pro",
+      "cover_key": "zone51"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Приложения",
+      "crm_title": "Zapret",
+      "cover_key": "zapret"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Лаунчеры",
+      "crm_title": "Battle.net",
+      "cover_key": "battle-net"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Лаунчеры",
+      "crm_title": "Steam",
+      "cover_key": "steam"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Лаунчеры",
+      "crm_title": "HoYoPlay",
+      "cover_key": "hoyoplay"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Лаунчеры",
+      "crm_title": "Lesta",
+      "cover_key": "lesta"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Лаунчеры",
+      "crm_title": "Epic Games Launcher",
+      "cover_key": "epic-games"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Лаунчеры",
+      "crm_title": "Riot Client",
+      "cover_key": "riot-client"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Лаунчеры",
+      "crm_title": "Battlestate Games Launcher",
+      "cover_key": "battlestate"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Лаунчеры",
+      "crm_title": "VK Play GameCenter",
+      "cover_key": "vk-play"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Лаунчеры",
+      "crm_title": "EA Play",
+      "cover_key": "ea"
+    },
+    {
+      "club_id": 9573,
+      "club": "Under Dojo",
+      "category": "Программы",
+      "crm_title": "attack shark",
+      "cover_key": "attack-shark"
+    }
+  ]
+}

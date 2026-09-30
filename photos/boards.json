@@ -1,0 +1,14 @@
+[
+  {
+    "id": "photo-treatment",
+    "title": "Обработка фотографий",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "photo-composition",
+    "title": "Фото и композиция",
+    "width": 1400,
+    "height": 1800
+  }
+]

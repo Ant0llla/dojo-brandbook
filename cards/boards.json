@@ -1,0 +1,44 @@
+[
+  {
+    "id": "catalog-games-1",
+    "title": "Игры / 1",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "catalog-games-2",
+    "title": "Игры / 2",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "catalog-games-3",
+    "title": "Игры / 3",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "catalog-games-4",
+    "title": "Игры / 4",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "catalog-apps-1",
+    "title": "Программы и лаунчеры / 1",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "catalog-apps-2",
+    "title": "Программы и лаунчеры / 2",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "catalog-apps-3",
+    "title": "Программы и лаунчеры / 3",
+    "width": 1400,
+    "height": 1800
+  }
+]

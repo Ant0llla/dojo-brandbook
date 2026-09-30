@@ -1,0 +1,102 @@
+[
+  {
+    "id": "template-card-valorant",
+    "title": "Вертикальная композиция · VALORANT",
+    "width": 600,
+    "height": 900,
+    "source": "cards/templates.html",
+    "cardKey": "valorant",
+    "composition": "vertical",
+    "layers": {
+      "figure": "bitmap",
+      "lettering": "SVG paths",
+      "captions": "editable HTML text"
+    },
+    "letteringSource": {
+      "text": "VALORANT",
+      "sourceText": "VALORANT",
+      "sourceFont": "Edo SZ",
+      "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+      "fontSize": 140,
+      "width": 613.252,
+      "height": 140,
+      "format": "SVG paths",
+      "pathFile": "lettering/valorant.svg"
+    }
+  },
+  {
+    "id": "template-card-cs2",
+    "title": "Нижний леттеринг · Counter-Strike 2",
+    "width": 600,
+    "height": 900,
+    "source": "cards/templates.html",
+    "cardKey": "cs2",
+    "composition": "bottom",
+    "layers": {
+      "figure": "bitmap",
+      "lettering": "SVG paths",
+      "captions": "editable HTML text"
+    },
+    "letteringSource": {
+      "text": "COUNTER STRIKE 2",
+      "sourceText": "COUNTER|STRIKE 2",
+      "sourceFont": "Edo SZ",
+      "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+      "fontSize": 93.8,
+      "width": 346.4829,
+      "height": 168.84,
+      "format": "SVG paths",
+      "pathFile": "lettering/cs2.svg"
+    }
+  },
+  {
+    "id": "template-card-repo",
+    "title": "Верхний леттеринг · REPO",
+    "width": 600,
+    "height": 900,
+    "source": "cards/templates.html",
+    "cardKey": "repo",
+    "composition": "top",
+    "layers": {
+      "figure": "bitmap",
+      "lettering": "SVG paths",
+      "captions": "editable HTML text"
+    },
+    "letteringSource": {
+      "text": "REPO",
+      "sourceText": "REPO",
+      "sourceFont": "Edo SZ",
+      "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+      "fontSize": 142,
+      "width": 298.8379,
+      "height": 142,
+      "format": "SVG paths",
+      "pathFile": "lettering/repo.svg"
+    }
+  },
+  {
+    "id": "template-card-steam",
+    "title": "Лаунчер · Steam",
+    "width": 600,
+    "height": 900,
+    "source": "cards/templates.html",
+    "cardKey": "steam",
+    "composition": "app",
+    "layers": {
+      "figure": "vendor icon and brush bitmap",
+      "lettering": "SVG paths",
+      "captions": "editable HTML text"
+    },
+    "letteringSource": {
+      "text": "STEAM",
+      "sourceText": "STEAM",
+      "sourceFont": "Edo SZ",
+      "fontFile": "../assets/lettering/edo-sz/edosz.ttf",
+      "fontSize": 120,
+      "width": 313.1836,
+      "height": 105.6,
+      "format": "SVG paths",
+      "pathFile": "lettering/steam.svg"
+    }
+  }
+]

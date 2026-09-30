@@ -1,0 +1,23 @@
+[
+  {
+    "id": "card-anatomy",
+    "title": "Свободный PNG",
+    "width": 1400,
+    "height": 1800,
+    "file": "cards/card-system.html"
+  },
+  {
+    "id": "card-context",
+    "title": "Чтение на разных фонах",
+    "width": 1400,
+    "height": 1800,
+    "file": "cards/card-system.html"
+  },
+  {
+    "id": "card-applications",
+    "title": "Программы и лаунчеры",
+    "width": 1400,
+    "height": 1800,
+    "file": "cards/card-system.html"
+  }
+]

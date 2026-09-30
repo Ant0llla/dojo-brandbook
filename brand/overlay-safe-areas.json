@@ -1,0 +1,41 @@
+{
+  "canvas": {
+    "width": 1920,
+    "height": 1080
+  },
+  "coordinateSystem": "Top left of the background, pixels; design contract, not a claim about the vendor API",
+  "dynamicDataNeverBaked": [
+    "PC number",
+    "live availability",
+    "balance",
+    "connection state",
+    "progress",
+    "session remaining time"
+  ],
+  "safeAreas": {
+    "smartgamer-cover": {
+      "x": 1000,
+      "y": 150,
+      "width": 820,
+      "height": 780
+    },
+    "smartkiosk-background": {
+      "x": 880,
+      "y": 220,
+      "width": 940,
+      "height": 760
+    },
+    "smartlock-background": {
+      "x": 840,
+      "y": 180,
+      "width": 920,
+      "height": 720
+    },
+    "pc-waiting-background": {
+      "x": 80,
+      "y": 390,
+      "width": 1120,
+      "height": 480
+    }
+  }
+}

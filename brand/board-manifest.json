@@ -1,0 +1,149 @@
+[
+  {
+    "id": "brand-01-character",
+    "title": "Характер бренда",
+    "width": 1400,
+    "height": 1800,
+    "export": true
+  },
+  {
+    "id": "brand-02-logo",
+    "title": "Логотипы",
+    "width": 1400,
+    "height": 1800,
+    "export": true
+  },
+  {
+    "id": "brand-03-logo-rules",
+    "title": "Поле и ограничения",
+    "width": 1400,
+    "height": 1800,
+    "export": true
+  },
+  {
+    "id": "brand-04-art-logo",
+    "title": "Кистевой арт-логотип",
+    "width": 1400,
+    "height": 1800,
+    "export": true
+  },
+  {
+    "id": "brand-05-color",
+    "title": "Цвет и контраст",
+    "width": 1400,
+    "height": 1800,
+    "export": true
+  },
+  {
+    "id": "brand-06-type",
+    "title": "Типографика",
+    "width": 1400,
+    "height": 1800,
+    "export": true
+  },
+  {
+    "id": "brand-07-layout",
+    "title": "Сетка и геометрия",
+    "width": 1400,
+    "height": 1800,
+    "export": true
+  },
+  {
+    "id": "brand-08-icons",
+    "title": "Иконки и сигналы",
+    "width": 1400,
+    "height": 1800,
+    "export": true
+  },
+  {
+    "id": "brand-09-voice",
+    "title": "Голос DOJO",
+    "width": 1400,
+    "height": 1800,
+    "export": true
+  },
+  {
+    "id": "creative-feed",
+    "title": "Креатив для ленты",
+    "width": 1080,
+    "height": 1350,
+    "export": true
+  },
+  {
+    "id": "creative-story",
+    "title": "Креатив для истории",
+    "width": 1080,
+    "height": 1920,
+    "export": true
+  },
+  {
+    "id": "creative-wide",
+    "title": "Широкий креатив",
+    "width": 1920,
+    "height": 1080,
+    "export": true
+  },
+  {
+    "id": "brand-13-merch",
+    "title": "Футболка и худи",
+    "width": 1400,
+    "height": 1800,
+    "export": true
+  },
+  {
+    "id": "brand-14-objects",
+    "title": "Стикеры и бейдж",
+    "width": 1400,
+    "height": 1800,
+    "export": true
+  },
+  {
+    "id": "smartgamer-logo",
+    "title": "SmartGamer · знак",
+    "width": 1920,
+    "height": 1080,
+    "export": true
+  },
+  {
+    "id": "smartgamer-cover",
+    "title": "SmartGamer · обложка",
+    "width": 1920,
+    "height": 1080,
+    "export": true
+  },
+  {
+    "id": "smartgamer-news",
+    "title": "SmartGamer · новость",
+    "width": 1920,
+    "height": 1080,
+    "export": true
+  },
+  {
+    "id": "smartkiosk-background",
+    "title": "SmartKiosk · фон",
+    "width": 1920,
+    "height": 1080,
+    "export": true
+  },
+  {
+    "id": "smartlock-background",
+    "title": "SmartLock · фон",
+    "width": 1920,
+    "height": 1080,
+    "export": true
+  },
+  {
+    "id": "pc-waiting-background",
+    "title": "Ожидание ПК · фон",
+    "width": 1920,
+    "height": 1080,
+    "export": true
+  },
+  {
+    "id": "character-library",
+    "title": "Персонажи и подача",
+    "width": 1400,
+    "height": 1800,
+    "export": true
+  }
+]

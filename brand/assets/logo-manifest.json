@@ -1,0 +1,98 @@
+[
+  {
+    "file": "logo-combined-red.svg",
+    "shape": "combined",
+    "color": "#ef3340",
+    "provenance": "Original source geometry, technical recolor"
+  },
+  {
+    "file": "logo-combined-paper.svg",
+    "shape": "combined",
+    "color": "#e9e5dc",
+    "provenance": "Original source geometry, technical recolor"
+  },
+  {
+    "file": "logo-combined-navy.svg",
+    "shape": "combined",
+    "color": "#091a2a",
+    "provenance": "Original source geometry, technical recolor"
+  },
+  {
+    "file": "logo-combined-black.svg",
+    "shape": "combined",
+    "color": "#040c12",
+    "provenance": "Original source geometry, technical recolor"
+  },
+  {
+    "file": "logo-wordmark-red.svg",
+    "shape": "wordmark",
+    "color": "#ef3340",
+    "provenance": "Original source geometry, technical recolor"
+  },
+  {
+    "file": "logo-wordmark-paper.svg",
+    "shape": "wordmark",
+    "color": "#e9e5dc",
+    "provenance": "Original source geometry, technical recolor"
+  },
+  {
+    "file": "logo-wordmark-navy.svg",
+    "shape": "wordmark",
+    "color": "#091a2a",
+    "provenance": "Original source geometry, technical recolor"
+  },
+  {
+    "file": "logo-wordmark-black.svg",
+    "shape": "wordmark",
+    "color": "#040c12",
+    "provenance": "Original source geometry, technical recolor"
+  },
+  {
+    "file": "logo-mask-red.svg",
+    "shape": "mask",
+    "color": "#ef3340",
+    "provenance": "Original source geometry, technical recolor"
+  },
+  {
+    "file": "logo-mask-paper.svg",
+    "shape": "mask",
+    "color": "#e9e5dc",
+    "provenance": "Original source geometry, technical recolor"
+  },
+  {
+    "file": "logo-mask-navy.svg",
+    "shape": "mask",
+    "color": "#091a2a",
+    "provenance": "Original source geometry, technical recolor"
+  },
+  {
+    "file": "logo-mask-black.svg",
+    "shape": "mask",
+    "color": "#040c12",
+    "provenance": "Original source geometry, technical recolor"
+  },
+  {
+    "file": "logo-horizontal-red.svg",
+    "shape": "horizontal",
+    "color": "#ef3340",
+    "provenance": "New horizontal assembly of unchanged original wordmark and mask geometry"
+  },
+  {
+    "file": "logo-horizontal-paper.svg",
+    "shape": "horizontal",
+    "color": "#e9e5dc",
+    "provenance": "New horizontal assembly of unchanged original wordmark and mask geometry"
+  },
+  {
+    "file": "logo-horizontal-navy.svg",
+    "shape": "horizontal",
+    "color": "#091a2a",
+    "provenance": "New horizontal assembly of unchanged original wordmark and mask geometry"
+  },
+  {
+    "file": "logo-horizontal-black.svg",
+    "shape": "horizontal",
+    "color": "#040c12",
+    "provenance": "New horizontal assembly of unchanged original wordmark and mask geometry"
+  }
+]

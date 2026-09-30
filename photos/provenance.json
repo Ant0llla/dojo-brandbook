@@ -1,0 +1,46 @@
+{
+  "source": "Photographs provided by DOJO for its brand materials",
+  "captureDate": null,
+  "method": "built-in image_gen photo retouch",
+  "assets": [
+    {
+      "photoId": "image9",
+      "role": "Readable computers on left for horizontal poster slice",
+      "original": "originals/image9.jpeg",
+      "retouched": "poster-pcs-left-retouched.png",
+      "originalSHA256": "fd3ed69c8fe7db0da3bc01abfbdba60432b947eac453335af04be217072348c8",
+      "retouchedSHA256": "43037a5a9dd4254365b2352bbc1228a5f5d058bbf428f716c98428e3bb6f7f28",
+      "retouchedSize": [
+        1448,
+        1086
+      ],
+      "visualReview": "Two original suspended PCs, two monitors and chairs retained. Chains retained. Original single central hanging headset retained; invented second headset and second white shelf bar in first pass were removed. Neutral wall and clearer equipment, soft red/aqua accents. Fine component and wallpaper details are generatively reconstructed, not pixel-identical."
+    },
+    {
+      "photoId": "image22",
+      "role": "Full club room hero with central aisle",
+      "original": "originals/image22.jpeg",
+      "retouched": "club-hero-retouched.png",
+      "originalSHA256": "c6574541a7e36263a031c4aef1cfc7341bd832942f05a4eb71882c8bb2c9104f",
+      "retouchedSHA256": "12bc138375b8e1b2606462f71ba7b15635b8f21c9191fffa2783e650a898472a",
+      "retouchedSize": [
+        1448,
+        1086
+      ],
+      "visualReview": "Both station rows, chairs, wall-mounted PC cases, central aisle, ceiling and tiled floor retained. Cosmetic chipped paint repair and dirt cleanup, lifted shadows, moderated red/aqua light. No room expansion or new equipment intended. Small screen/UI details are reconstructed."
+    },
+    {
+      "photoId": "image83",
+      "role": "Real entrance and recognisable DOJO sign",
+      "original": "originals/image83.jpeg",
+      "retouched": "storefront-sign-retouched.png",
+      "originalSHA256": "086ff02bf1fa52cd1cf01eee3af4a9b869b71d516e81e0f9caf48beb6bedff82",
+      "retouchedSHA256": "1fbe3f414977e9d116732b6e3d2ece267129ac14185376fe0ef1c2269cebd334",
+      "retouchedSize": [
+        1448,
+        1086
+      ],
+      "visualReview": "Actual angled DOJO sign, roof, brick, dark entrance and map-service stickers retained. Readable wording preserved. Dust and sign-face grime reduced, exposure balanced. Small logo/lettering contours remain a generative retouch rather than vector-accurate master art."
+    }
+  ]
+}

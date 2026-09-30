@@ -1,0 +1,29 @@
+[
+  {
+    "key": "cola",
+    "url": "https://park-food.ru/wa-data/public/shop/products/95/01/195/images/337/337.970.png",
+    "file": "dobry-cola-500.png",
+    "sourcePage": "https://park-food.ru/coca-cola-0-5-l/",
+    "product": "Добрый Cola 0,5 л",
+    "status": "downloaded",
+    "bytes": 74112
+  },
+  {
+    "key": "energy",
+    "url": "https://api.technodom.kz/f3/api/v1/images/af_e0d8a2b5076e86060f7bb1022b4df7e2.jpg",
+    "file": "gorilla-450.jpg",
+    "sourcePage": "https://www.technodom.kz/p/napitok-gorilla-ehnergeticheskiy-klassicheskiy-zh-b-450-ml-af_4680036912629",
+    "product": "Gorilla 450 мл",
+    "status": "downloaded",
+    "bytes": 32670
+  },
+  {
+    "key": "snack",
+    "url": "https://gurmenia.am/u/items/q5StOd9rbmyvvOuauP.jpg",
+    "file": "bounty-55.jpg",
+    "sourcePage": "https://gurmenia.am/en/product/shvokvolade-batvon-bavounti-55g",
+    "product": "Bounty 55 г",
+    "status": "downloaded",
+    "bytes": 33246
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "actions",
+    "title": "Действия"
+  },
+  {
+    "id": "forms",
+    "title": "Ввод и выбор"
+  },
+  {
+    "id": "feedback",
+    "title": "Обратная связь"
+  },
+  {
+    "id": "navigation",
+    "title": "Навигация"
+  },
+  {
+    "id": "product-atoms",
+    "title": "Места и цены"
+  },
+  {
+    "id": "icons",
+    "title": "Иконки и поведение"
+  }
+]

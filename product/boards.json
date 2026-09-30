@@ -1,0 +1,98 @@
+[
+  {
+    "id": "price-pionerskaya-weekday",
+    "title": "Прайс / DOJO Пионерская / Будни",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "price-pionerskaya-weekend",
+    "title": "Прайс / DOJO Пионерская / Выходные",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "price-komenda-weekday",
+    "title": "Прайс / DOJO Коменда / Будни",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "price-komenda-weekend",
+    "title": "Прайс / DOJO Коменда / Выходные",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "map-pionerskaya",
+    "title": "Карта / DOJO Пионерская",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "map-komenda",
+    "title": "Карта / DOJO Коменда",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "map-states",
+    "title": "Карта / состояния и доступность",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "map-editor",
+    "title": "Редактор карты / локальный черновик",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "roulette-guest",
+    "title": "Рулетка / гостевой экран без соединения",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "roulette-settings",
+    "title": "Рулетка / настройки и категории",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "roulette-prize-pool",
+    "title": "Рулетка / полный пул призов",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "roulette-prize-editor",
+    "title": "Рулетка / редактирование приза",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "roulette-claims",
+    "title": "Рулетка / журнал и состояния выдачи",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "signage-disconnected",
+    "title": "Digital signage / текущий тариф и карта",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "shop-pionerskaya",
+    "title": "Витрина / DOJO Пионерская",
+    "width": 1400,
+    "height": 1800
+  },
+  {
+    "id": "shop-staroderevenskaya",
+    "title": "Витрина / DOJO Коменда",
+    "width": 1400,
+    "height": 1800
+  }
+]
